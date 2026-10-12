@@ -9,7 +9,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 31.6,
       "accent": "electric",
-      "img": "assets/tables/GT-14070-E.svg"
+      "img": "assets/tables/GT-14070-E/photo-1.jpg",
+      "gallery": ["assets/tables/GT-14070-E/photo-1.jpg", "assets/tables/GT-14070-E/photo-2.jpg"]
     },
     {
       "sku": "GT-12060-E1",
@@ -19,7 +20,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 28.2,
       "accent": "electric",
-      "img": "assets/tables/GT-12060-E1.svg"
+      "img": "assets/tables/GT-12060-E1/photo-1.jpg",
+      "gallery": ["assets/tables/GT-12060-E1/photo-1.jpg", "assets/tables/GT-12060-E1/photo-2.jpg"]
     },
     {
       "sku": "GT-12060-E2",
@@ -29,7 +31,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 26.8,
       "accent": "electric",
-      "img": "assets/tables/GT-12060-E2.svg"
+      "img": "assets/tables/GT-12060-E2/photo-1.jpg",
+      "gallery": ["assets/tables/GT-12060-E2/photo-1.jpg", "assets/tables/GT-12060-E2/photo-2.jpg"]
     },
     {
       "sku": "GT-12060-M",
@@ -39,7 +42,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 25.2,
       "accent": "manual",
-      "img": "assets/tables/GT-12060-M.svg"
+      "img": "assets/tables/GT-12060-M/photo-1.jpg",
+      "gallery": ["assets/tables/GT-12060-M/photo-1.jpg", "assets/tables/GT-12060-M/photo-2.jpg"]
     },
     {
       "sku": "GT-10085-F",
@@ -49,7 +53,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 11.6,
       "accent": "fixed",
-      "img": "assets/tables/GT-10085-F.svg"
+      "img": "assets/tables/GT-10085-F/photo-1.jpg",
+      "gallery": ["assets/tables/GT-10085-F/photo-1.jpg"]
     },
     {
       "sku": "GT-14060-M",
@@ -59,7 +64,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 28.6,
       "accent": "manual",
-      "img": "assets/tables/GT-14060-M.svg"
+      "img": "assets/tables/GT-14060-M/photo-1.jpg",
+      "gallery": ["assets/tables/GT-14060-M/photo-1.jpg", "assets/tables/GT-14060-M/photo-2.jpg"]
     },
     {
       "sku": "GT-14060-F",
@@ -69,7 +75,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 27.2,
       "accent": "fixed",
-      "img": "assets/tables/GT-14060-F.svg"
+      "img": "assets/tables/GT-14060-F/photo-1.jpg",
+      "gallery": ["assets/tables/GT-14060-F/photo-1.jpg", "assets/tables/GT-14060-F/photo-2.jpg"]
     },
     {
       "sku": "GT-CORNER-LED",
@@ -79,7 +86,8 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 29.8,
       "accent": "led",
-      "img": "assets/tables/GT-CORNER-LED.svg"
+      "img": "assets/tables/GT-CORNER-LED/photo-1.jpg",
+      "gallery": ["assets/tables/GT-CORNER-LED/photo-1.jpg", "assets/tables/GT-CORNER-LED/photo-2.jpg"]
     }
   ],
   "chairs": [

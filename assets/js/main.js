@@ -92,9 +92,13 @@
           </div>
         </div>`;
     } else {
+      const g = item.gallery || [item.img];
       galleryHtml = `
         <div class="gallery">
-          <div class="main"><img src="${item.img}" alt=""></div>
+          <div class="main"><img id="mMain" src="${g[0]}" alt=""></div>
+          <div class="thumbs">
+            ${g.map((src, i) => `<img class="${i === 0 ? "active" : ""}" src="${src}" data-i="${i}" alt="">`).join("")}
+          </div>
         </div>`;
     }
     const specs = type === "table"
