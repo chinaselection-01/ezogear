@@ -3,7 +3,7 @@
 import os, json
 
 BASE = "https://ezogear.com/"
-SITE = "JINGGEAR GAMING"
+SITE = "EZO Gear"
 
 # 1) hero keyword tagline (after the hero <p>)
 hero_tag = ('    <p class="seo-tag">🏭 China cheapest factory &nbsp;·&nbsp; 💰 Direct factory price '

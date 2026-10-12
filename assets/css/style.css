@@ -43,12 +43,8 @@ img { max-width: 100%; display: block; }
   display: flex; align-items: center; justify-content: space-between;
   height: 64px;
 }
-.brand { display: flex; align-items: baseline; gap: 8px; }
-.brand .cn { color: #fff; font-weight: 800; font-size: 20px; letter-spacing: 1px; }
-.brand .en {
-  color: var(--accent); font-weight: 700; font-size: 13px; letter-spacing: 3px;
-  text-transform: uppercase;
-}
+.brand { display: flex; align-items: center; gap: 8px; }
+.brand .logo-mark { height: 40px; width: auto; display: block; }
 .nav-links { display: flex; gap: 26px; align-items: center; }
 .nav-links a {
   color: #cbd5e1; font-size: 14px; font-weight: 500; transition: color .2s;

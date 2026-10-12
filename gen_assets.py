@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate table placeholder SVGs (white-bg, matching chair photos) + data.js for the JINGGEAR GAMING catalog.
+"""Generate table placeholder SVGs (white-bg, matching chair photos) + data.js for the EZO Gear catalog.
 Prices are intentionally NOT embedded in any rendered output. They live only in back-office data
 (the `fob` field) and are never shown on the site (per user instruction: 不显示价格).
 """

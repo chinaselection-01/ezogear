@@ -4,25 +4,25 @@
 import os, json, re
 
 BASE = "https://ezogear.com/"
-SITE = "JINGGEAR GAMING"
+SITE = "EZO Gear"
 CO = "Yiwu shanqing E‑commerce Firm"
 
 # ---- per-page SEO metadata ----
 PAGES = {
     "index.html": {
-        "title": "JINGGEAR GAMING — China's Cheapest Factory for Gaming Desks & Chairs | Direct Factory Price",
+        "title": "EZO Gear — China's Cheapest Factory for Gaming Desks & Chairs | Direct Factory Price",
         "desc": "China cheapest factory for gaming desks and chairs. Direct factory price, OEM/ODM, low MOQ 400 pcs. Wholesale gaming tables & ergonomic gaming chairs from Yiwu, Zhejiang.",
     },
     "tables.html": {
-        "title": "Wholesale Gaming Desks — China Cheapest Factory | Direct Factory Price | JINGGEAR",
+        "title": "Wholesale Gaming Desks — China Cheapest Factory | Direct Factory Price | EZO Gear",
         "desc": "Buy gaming desks direct from China's cheapest factory. Electric & manual height-adjustable, fixed and LED corner desks. Direct factory price, MOQ 400, OEM/ODM, FOB Ningbo.",
     },
     "chairs.html": {
-        "title": "Wholesale Gaming Chairs — China Cheapest Factory | Direct Factory Price | JINGGEAR",
+        "title": "Wholesale Gaming Chairs — China Cheapest Factory | Direct Factory Price | EZO Gear",
         "desc": "Buy gaming chairs direct from China's cheapest factory. Racing-style and ergonomic mesh chairs. Direct factory price, OEM/ODM, mixed-container MOQ, FOB Ningbo.",
     },
     "contact.html": {
-        "title": "Request a Quote — Direct Factory Price | JINGGEAR GAMING",
+        "title": "Request a Quote — Direct Factory Price | EZO Gear",
         "desc": "Request direct factory price and FOB quote for gaming desks and chairs. China cheapest factory, MOQ 400 pcs, OEM/ODM. Reply within 24h.",
     },
 }

@@ -5,7 +5,7 @@ import os
 BASE = "https://ezogear.com/"
 
 # ---- llms.txt (GEO index for AI engines) ----
-llms = f"""# JINGGEAR GAMING
+llms = f"""# EZO Gear
 > China cheapest factory for gaming desks and chairs. Direct factory price, OEM/ODM, low MOQ, FOB Ningbo. Based in Yiwu, Zhejiang, China.
 
 ## Products

@@ -1,4 +1,4 @@
-/* JINGGEAR GAMING — catalog rendering, product modal & quote form.
+/* EZO Gear — catalog rendering, product modal & quote form.
    IMPORTANT: prices (item.fob) are NEVER rendered anywhere on the site. */
 (function () {
   const P = window.PRODUCTS || { tables: [], chairs: [] };
