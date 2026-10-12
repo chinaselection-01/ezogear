@@ -114,135 +114,135 @@ window.PRODUCTS = {
   ],
   "chairs": [
     {
-      "sku": "DS5004",
+      "sku": "GC5004",
       "color": "White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5004/DS5004-1.jpg",
+      "cover": "assets/chairs/GC5004/GC5004-1.jpg",
       "gallery": [
-        "assets/chairs/DS5004/DS5004-1.jpg",
-        "assets/chairs/DS5004/DS5004-2.jpg",
-        "assets/chairs/DS5004/DS5004-3.jpg",
-        "assets/chairs/DS5004/DS5004-4.jpg",
-        "assets/chairs/DS5004/DS5004-5.jpg"
+        "assets/chairs/GC5004/GC5004-1.jpg",
+        "assets/chairs/GC5004/GC5004-2.jpg",
+        "assets/chairs/GC5004/GC5004-3.jpg",
+        "assets/chairs/GC5004/GC5004-4.jpg",
+        "assets/chairs/GC5004/GC5004-5.jpg"
       ]
     },
     {
-      "sku": "DS5006",
+      "sku": "GC6106",
       "color": "White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5006/DS5006-1.jpg",
+      "cover": "assets/chairs/GC6106/GC6106-1.jpg",
       "gallery": [
-        "assets/chairs/DS5006/DS5006-1.jpg",
-        "assets/chairs/DS5006/DS5006-2.jpg",
-        "assets/chairs/DS5006/DS5006-3.jpg",
-        "assets/chairs/DS5006/DS5006-4.jpg",
-        "assets/chairs/DS5006/DS5006-5.jpg",
-        "assets/chairs/DS5006/DS5006-6.jpg"
+        "assets/chairs/GC6106/GC6106-1.jpg",
+        "assets/chairs/GC6106/GC6106-2.jpg",
+        "assets/chairs/GC6106/GC6106-3.jpg",
+        "assets/chairs/GC6106/GC6106-4.jpg",
+        "assets/chairs/GC6106/GC6106-5.jpg",
+        "assets/chairs/GC6106/GC6106-6.jpg"
       ]
     },
     {
-      "sku": "DS5008",
+      "sku": "GC6108",
       "color": "White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5008/DS5008-1.jpg",
+      "cover": "assets/chairs/GC6108/GC6108-1.jpg",
       "gallery": [
-        "assets/chairs/DS5008/DS5008-1.jpg",
-        "assets/chairs/DS5008/DS5008-10.jpg",
-        "assets/chairs/DS5008/DS5008-11.jpg",
-        "assets/chairs/DS5008/DS5008-2.jpg",
-        "assets/chairs/DS5008/DS5008-3.jpg",
-        "assets/chairs/DS5008/DS5008-4.jpg",
-        "assets/chairs/DS5008/DS5008-5.jpg",
-        "assets/chairs/DS5008/DS5008-6.jpg",
-        "assets/chairs/DS5008/DS5008-7.jpg",
-        "assets/chairs/DS5008/DS5008-8.jpg",
-        "assets/chairs/DS5008/DS5008-9.jpg"
+        "assets/chairs/GC6108/GC6108-1.jpg",
+        "assets/chairs/GC6108/GC6108-10.jpg",
+        "assets/chairs/GC6108/GC6108-11.jpg",
+        "assets/chairs/GC6108/GC6108-2.jpg",
+        "assets/chairs/GC6108/GC6108-3.jpg",
+        "assets/chairs/GC6108/GC6108-4.jpg",
+        "assets/chairs/GC6108/GC6108-5.jpg",
+        "assets/chairs/GC6108/GC6108-6.jpg",
+        "assets/chairs/GC6108/GC6108-7.jpg",
+        "assets/chairs/GC6108/GC6108-8.jpg",
+        "assets/chairs/GC6108/GC6108-9.jpg"
       ]
     },
     {
-      "sku": "DS5011BW",
+      "sku": "GC5011BW",
       "color": "Black / White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5011BW/DS5011-B-W-4.jpg",
+      "cover": "assets/chairs/GC5011BW/GC5011-B-W-4.jpg",
       "gallery": [
-        "assets/chairs/DS5011BW/DS5011-B-W-4.jpg",
-        "assets/chairs/DS5011BW/DS5011-B-W-5.jpg",
-        "assets/chairs/DS5011BW/DS5011-B-W-6.jpg",
-        "assets/chairs/DS5011BW/DS5011-B-W-7.jpg",
-        "assets/chairs/DS5011BW/DS5011-B-W-8.jpg"
+        "assets/chairs/GC5011BW/GC5011-B-W-4.jpg",
+        "assets/chairs/GC5011BW/GC5011-B-W-5.jpg",
+        "assets/chairs/GC5011BW/GC5011-B-W-6.jpg",
+        "assets/chairs/GC5011BW/GC5011-B-W-7.jpg",
+        "assets/chairs/GC5011BW/GC5011-B-W-8.jpg"
       ]
     },
     {
-      "sku": "DS5011PINK",
+      "sku": "GC5011PINK",
       "color": "Black / Pink",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5011PINK/DS5011-BLA-PINK-1.jpg",
+      "cover": "assets/chairs/GC5011PINK/GC5011-BLA-PINK-1.jpg",
       "gallery": [
-        "assets/chairs/DS5011PINK/DS5011-BLA-PINK-1.jpg",
-        "assets/chairs/DS5011PINK/DS5011-BLA-PINK-2.jpg",
-        "assets/chairs/DS5011PINK/DS5011-BLA-PINK-3.jpg",
-        "assets/chairs/DS5011PINK/DS5011-BLA-PINK-4.jpg",
-        "assets/chairs/DS5011PINK/DS5011-BLA-PINK-5.jpg",
-        "assets/chairs/DS5011PINK/DS5011-BLA-PINK-6.jpg"
+        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-1.jpg",
+        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-2.jpg",
+        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-3.jpg",
+        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-4.jpg",
+        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-5.jpg",
+        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-6.jpg"
       ]
     },
     {
-      "sku": "DS5011RED",
+      "sku": "GC5011RED",
       "color": "Black / Red",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5011RED/DS5011-BLA-RED-2.jpg",
+      "cover": "assets/chairs/GC5011RED/GC5011-BLA-RED-2.jpg",
       "gallery": [
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-2.jpg",
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-3.jpg",
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-4.jpg",
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-5.jpg",
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-6.jpg",
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-7.jpg",
-        "assets/chairs/DS5011RED/DS5011-BLA-RED-8.jpg"
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-2.jpg",
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-3.jpg",
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-4.jpg",
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-5.jpg",
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-6.jpg",
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-7.jpg",
+        "assets/chairs/GC5011RED/GC5011-BLA-RED-8.jpg"
       ]
     },
     {
-      "sku": "DS5017",
+      "sku": "GC5017",
       "color": "Pink / White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5017/DS5017-P-W-1.jpg",
+      "cover": "assets/chairs/GC5017/GC5017-P-W-1.jpg",
       "gallery": [
-        "assets/chairs/DS5017/DS5017-P-W-1.jpg",
-        "assets/chairs/DS5017/DS5017-P-W-2.jpg",
-        "assets/chairs/DS5017/DS5017-P-W-3.jpg",
-        "assets/chairs/DS5017/DS5017-P-W-4.jpg",
-        "assets/chairs/DS5017/DS5017-P-W-5.jpg",
-        "assets/chairs/DS5017/DS5017-P-W-6.jpg"
+        "assets/chairs/GC5017/GC5017-P-W-1.jpg",
+        "assets/chairs/GC5017/GC5017-P-W-2.jpg",
+        "assets/chairs/GC5017/GC5017-P-W-3.jpg",
+        "assets/chairs/GC5017/GC5017-P-W-4.jpg",
+        "assets/chairs/GC5017/GC5017-P-W-5.jpg",
+        "assets/chairs/GC5017/GC5017-P-W-6.jpg"
       ]
     },
     {
-      "sku": "DS5018",
+      "sku": "GC5018",
       "color": "Black / White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/DS5018/DS5018-B-W-1.jpg",
+      "cover": "assets/chairs/GC5018/GC5018-B-W-1.jpg",
       "gallery": [
-        "assets/chairs/DS5018/DS5018-B-W-1.jpg",
-        "assets/chairs/DS5018/DS5018-B-W-2.jpg",
-        "assets/chairs/DS5018/DS5018-B-W-3.jpg",
-        "assets/chairs/DS5018/DS5018-B-W-4.jpg",
-        "assets/chairs/DS5018/DS5018-B-W-5.jpg",
-        "assets/chairs/DS5018/DS5018-B-W-6.jpg"
+        "assets/chairs/GC5018/GC5018-B-W-1.jpg",
+        "assets/chairs/GC5018/GC5018-B-W-2.jpg",
+        "assets/chairs/GC5018/GC5018-B-W-3.jpg",
+        "assets/chairs/GC5018/GC5018-B-W-4.jpg",
+        "assets/chairs/GC5018/GC5018-B-W-5.jpg",
+        "assets/chairs/GC5018/GC5018-B-W-6.jpg"
       ]
     },
     {
