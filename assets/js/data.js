@@ -166,51 +166,51 @@ window.PRODUCTS = {
       ]
     },
     {
-      "sku": "GC5011BW",
+      "sku": "GC6111BW",
       "color": "Black / White",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC5011BW/GC5011-B-W-4.jpg",
+      "cover": "assets/chairs/GC6111BW/GC6111-B-W-4.jpg",
       "gallery": [
-        "assets/chairs/GC5011BW/GC5011-B-W-4.jpg",
-        "assets/chairs/GC5011BW/GC5011-B-W-5.jpg",
-        "assets/chairs/GC5011BW/GC5011-B-W-6.jpg",
-        "assets/chairs/GC5011BW/GC5011-B-W-7.jpg",
-        "assets/chairs/GC5011BW/GC5011-B-W-8.jpg"
+        "assets/chairs/GC6111BW/GC6111-B-W-4.jpg",
+        "assets/chairs/GC6111BW/GC6111-B-W-5.jpg",
+        "assets/chairs/GC6111BW/GC6111-B-W-6.jpg",
+        "assets/chairs/GC6111BW/GC6111-B-W-7.jpg",
+        "assets/chairs/GC6111BW/GC6111-B-W-8.jpg"
       ]
     },
     {
-      "sku": "GC5011PINK",
+      "sku": "GC6111PINK",
       "color": "Black / Pink",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC5011PINK/GC5011-BLA-PINK-1.jpg",
+      "cover": "assets/chairs/GC6111PINK/GC6111-BLA-PINK-1.jpg",
       "gallery": [
-        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-1.jpg",
-        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-2.jpg",
-        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-3.jpg",
-        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-4.jpg",
-        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-5.jpg",
-        "assets/chairs/GC5011PINK/GC5011-BLA-PINK-6.jpg"
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-1.jpg",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-2.jpg",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-3.jpg",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-4.jpg",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-5.jpg",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-6.jpg"
       ]
     },
     {
-      "sku": "GC5011RED",
+      "sku": "GC6111RED",
       "color": "Black / Red",
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC5011RED/GC5011-BLA-RED-2.jpg",
+      "cover": "assets/chairs/GC6111RED/GC6111-BLA-RED-2.jpg",
       "gallery": [
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-2.jpg",
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-3.jpg",
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-4.jpg",
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-5.jpg",
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-6.jpg",
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-7.jpg",
-        "assets/chairs/GC5011RED/GC5011-BLA-RED-8.jpg"
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-2.jpg",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-3.jpg",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-4.jpg",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-5.jpg",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-6.jpg",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-7.jpg",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-8.jpg"
       ]
     },
     {
