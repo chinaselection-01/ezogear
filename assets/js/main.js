@@ -16,7 +16,7 @@
         <div class="spec">${t.desc}</div>
         <div class="foot">
           <span class="${tagClass}">${tagText}</span>
-          <span class="sub">MOQ ${t.moq}</span>
+          <span class="sub">MOQ ${t.moq || "on request"}</span>
         </div>
       </div>
     </article>`;
@@ -32,7 +32,7 @@
         <div class="spec">${c.desc}</div>
         <div class="foot">
           <span class="tag">Gaming Chair</span>
-          <span class="sub">MOQ ${c.moq}</span>
+          <span class="sub">MOQ ${c.moq || "on request"}</span>
         </div>
       </div>
     </article>`;
@@ -107,13 +107,13 @@
            <li><strong>Size:</strong> ${item.size}</li>
            <li><strong>Adjustment:</strong> ${item.adj}</li>
            <li><strong>Feature:</strong> ${item.desc}</li>
-           <li><strong>MOQ:</strong> ${item.moq} pcs</li>
+           <li><strong>MOQ:</strong> ${item.moq ? item.moq + " pcs" : "On request"}</li>
          </ul>`
       : `<ul>
            <li><strong>Model:</strong> ${item.sku}</li>
            <li><strong>Color:</strong> ${item.color}</li>
            <li><strong>Feature:</strong> ${item.desc}</li>
-           <li><strong>MOQ:</strong> ${item.moq} pcs</li>
+           <li><strong>MOQ:</strong> ${item.moq ? item.moq + " pcs" : "On request"}</li>
          </ul>`;
     modal.innerHTML = `
       <div class="modal-wrap">
