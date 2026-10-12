@@ -84,13 +84,24 @@ img { max-width: 100%; display: block; }
 }
 .hero p { color: #cbd5e1; font-size: 18px; max-width: 620px; margin: 0 0 30px; }
 .hero-cta { display: flex; gap: 14px; flex-wrap: wrap; }
+.seo-tag { margin-top: 18px; font-size: 14px; color: #e2e8f0; }
+.seo-tag { background: rgba(56,189,248,0.12); display: inline-block; padding: 8px 14px; border-radius: 999px; border: 1px solid rgba(56,189,248,0.3); }
 .hero-meta { margin-top: 40px; display: flex; gap: 36px; flex-wrap: wrap; }
 .hero-meta div { color: #94a3b8; font-size: 13px; }
 .hero-meta strong { display: block; color: #fff; font-size: 22px; font-weight: 700; }
+.faq { display: grid; gap: 14px; max-width: 860px; }
+.faq-item { background: #fff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 18px 22px; }
+.faq-item h4 { margin: 0 0 8px; font-size: 16px; color: var(--ink); }
+.faq-item p { margin: 0; color: var(--ink-soft); font-size: 14px; line-height: 1.6; }
 
+
+.crumb { padding: 14px 0 0; font-size: 13px; color: var(--ink-soft); }
+.crumb a { color: var(--accent); text-decoration: none; }
+.crumb span { margin: 0 6px; color: #94a3b8; }
 /* ---------- Sections ---------- */
 .section { padding: 64px 0; }
 .section.soft { background: var(--bg-soft); }
+.section h1 { font-size: 30px; margin: 0 0 8px; font-weight: 800; }
 .section h2 { font-size: 30px; margin: 0 0 8px; font-weight: 800; }
 .section .lead { color: var(--ink-soft); margin: 0 0 36px; max-width: 680px; }
 
