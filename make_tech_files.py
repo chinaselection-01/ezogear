@@ -21,7 +21,7 @@ llms = f"""# EZO Gear
 ## Company
 - Legal entity: Yiwu shanqing E‑commerce Firm
 - Location: Yiwu, Zhejiang, China
-- Email: jojo@EZOGEAR.com
+- Email: jojo@ezogear.com
 - Tel / WhatsApp: 0086 15088255784
 - Trade term: FOB Ningbo
 - Services: wholesale, OEM, ODM
