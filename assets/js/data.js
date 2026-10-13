@@ -110,7 +110,729 @@ window.PRODUCTS = {
         "assets/tables/GT-CORNER-LED/photo-1.jpg",
         "assets/tables/GT-CORNER-LED/photo-2.jpg"
       ]
-    }
+    },
+    {
+        "sku": "EZ-S-06",
+        "size": "100*60CM",
+        "adj": "Manual crank",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 0.7 mm; panel 1.5 mm; manual crank lift.",
+        "moq": null,
+        "fob": null,
+        "accent": "manual",
+        "type": "Standing Desk",
+        "color": "White",
+        "material": "steel tube + MDF",
+        "net": "10KG",
+        "gross": "12KG",
+        "carton": "110*67*13CM",
+        "img": "assets/tables/EZ-S-06/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-06/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-S-02",
+        "size": "120*60CM",
+        "adj": "Manual crank",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.0 mm; panel 1.5 mm; manual crank lift.",
+        "moq": null,
+        "fob": null,
+        "accent": "manual",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "16.5KG",
+        "gross": "18.5KG",
+        "carton": "124*64*14CM",
+        "img": "assets/tables/EZ-S-02/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-02/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-15",
+        "size": "120*60CM",
+        "adj": "Manual crank",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.2 mm; panel 1.5 mm; manual crank lift; height 55-77 cm.",
+        "moq": null,
+        "fob": null,
+        "accent": "manual",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "21KG",
+        "gross": "23KG",
+        "carton": "124*64*13CM",
+        "img": "assets/tables/EZ-SD-15/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-15/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GD-2585",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: tube 1.0 mm; panel 1.5 mm; optional RGB armor light.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk",
+        "color": "Walnut",
+        "material": "steel + MDF",
+        "net": "12.5KG",
+        "gross": "14KG",
+        "carton": "1310*710*100",
+        "img": "assets/tables/EZ-GD-2585/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GD-2585/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GD-2530",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: tube 1.0 mm; panel 1.5 mm; optional RGB armor light.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "steel + MDF",
+        "net": "12KG",
+        "gross": "13.5KG",
+        "carton": "1250*650*100",
+        "img": "assets/tables/EZ-GD-2530/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GD-2530/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GD-2535",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: tube 1.0 mm; panel 1.5 mm; optional RGB armor light.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk",
+        "color": "Walnut",
+        "material": "steel + MDF",
+        "net": "12.5KG",
+        "gross": "14KG",
+        "carton": "1250*650*100",
+        "img": "assets/tables/EZ-GD-2535/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GD-2535/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GD-2540",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: tube 1.0 mm; panel 1.5 mm; optional RGB armor light.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "steel + MDF",
+        "net": "12KG",
+        "gross": "13.5KG",
+        "carton": "1250*650*100",
+        "img": "assets/tables/EZ-GD-2540/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GD-2540/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-02+",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.0 mm; panel 1.5 mm; electric lift; height 72-112 cm; two 120x30 cm boards.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF cross-laminated panel",
+        "net": "17KG",
+        "gross": "19KG",
+        "carton": "1250*350*120MM",
+        "img": "assets/tables/EZ-SD-02+/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-02+/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-03+",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.0 mm; panel 1.5 mm; electric lift; height 72-112 cm; tube 45x65 mm, inset 40 mm*60.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "17KG",
+        "gross": "19KG",
+        "carton": "1250*650*100MM",
+        "img": "assets/tables/EZ-SD-03+/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-03+/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-03+USB",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.0 mm; panel 1.5 mm; electric lift; height 72-112 cm; tube 45x65 mm, inset 40 mm*60.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "17KG",
+        "gross": "19KG",
+        "carton": "1250*650*100MM",
+        "img": "assets/tables/EZ-SD-03+USB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-03+USB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-33+",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.2 mm; panel 1.8 mm; electric lift; height 73-117 cm; 60*30 60*60.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "19KG",
+        "gross": "21KG",
+        "carton": "73*65*11CM",
+        "img": "assets/tables/EZ-SD-33+/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-33+/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-04+",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.0 mm; panel 1.5 mm; electric lift; height 72-112 cm; tube 45x65 mm, inset 40 mm*60.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "17KG",
+        "gross": "19KG",
+        "carton": "1250*650*100MM",
+        "img": "assets/tables/EZ-SD-04+/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-04+/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-05RGB",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.2 mm; panel 1.8 mm; electric lift; height 73-117 cm; LED.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White / Light Wood",
+        "material": "steel tube + MDF",
+        "net": "22KG",
+        "gross": "24KG",
+        "carton": "1250*650*100MM",
+        "img": "assets/tables/EZ-SD-05RGB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-05RGB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-06RGB",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.2 mm; panel 1.8 mm; electric lift; height 73-117 cm; 45*75 40*70.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "+",
+        "net": "26KG",
+        "gross": "28KG",
+        "carton": "1240*64*11CM",
+        "img": "assets/tables/EZ-SD-06RGB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-06RGB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-03",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.0 mm; panel 1.8 mm; electric lift; height 72-112 cm; tube 45x65 mm, inset 40 mm*60.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "20KG",
+        "gross": "22KG",
+        "carton": "1250*650*100MM",
+        "img": "assets/tables/EZ-SD-03/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-03/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-S-01",
+        "size": "extendable size1000-1600",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.5 mm; electric lift; height 72-118 cm; 50*80 45*75.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "net": "17KG",
+        "gross": "18.5KG",
+        "carton": "106*34*15CM",
+        "img": "assets/tables/EZ-SD-S-01/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-S-01/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-SD-13",
+        "size": "120*60CM",
+        "adj": "Electric lift",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: tube 1.2 mm; panel 1.8 mm; electric lift; height 73-117 cm.",
+        "moq": null,
+        "fob": null,
+        "accent": "electric",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "25KG",
+        "gross": "27KG",
+        "carton": "124*64*15CM",
+        "img": "assets/tables/EZ-SD-13/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-SD-13/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GD-2750",
+        "size": "100*50*70CM",
+        "adj": "Fixed",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: tube 0.7 mm; panel 1.5 mm.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "steel tube + MDF",
+        "net": "17KG",
+        "gross": "19KG",
+        "carton": "1050*550*120MM",
+        "img": "assets/tables/EZ-GD-2750/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GD-2750/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-G-04RGB",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: RGB.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 0.8 mm+1.5",
+        "net": "13.2KG",
+        "gross": "15.3KG",
+        "carton": "1250*650*120MM",
+        "img": "assets/tables/EZ-G-04RGB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-G-04RGB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GD-06RGB",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: RGB.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm+1.8",
+        "net": "16KG",
+        "gross": "18KG",
+        "carton": "1450*650*90MM",
+        "img": "assets/tables/EZ-GD-06RGB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GD-06RGB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-S-31RGB",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: RGB.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm+1.8",
+        "net": "16KG",
+        "gross": "18KG",
+        "carton": "1450*650*90MM",
+        "img": "assets/tables/EZ-S-31RGB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-31RGB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-S-32RGB",
+        "size": "120*60CM",
+        "adj": "RGB / LED",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: RGB.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm+1.8",
+        "net": "16KG",
+        "gross": "18KG",
+        "carton": "1450*650*90MM",
+        "img": "assets/tables/EZ-S-32RGB/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-32RGB/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-S-1688",
+        "size": "1280*1280*430mm",
+        "adj": "Fixed",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "tube 0.7 mm+1.5",
+        "net": "19.5KG",
+        "gross": "21.5KG",
+        "carton": "99*52*15CM",
+        "img": "assets/tables/EZ-S-1688/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-1688/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-S-1689",
+        "size": "1200*1200*750mm",
+        "adj": "Fixed",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "tube 0.7 mm+1.5",
+        "net": "20KG",
+        "gross": "22KG",
+        "carton": "750*540*165mm",
+        "img": "assets/tables/EZ-S-1689/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-1689/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-K-006",
+        "size": "120*60CM",
+        "adj": "Fixed",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: 20*50 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 0.7 mmpanel 1.5 mm",
+        "net": "12KG",
+        "gross": "14KG",
+        "carton": "1300*690*12MM",
+        "img": "assets/tables/EZ-K-006/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-K-006/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-K-007",
+        "size": "120*60CM",
+        "adj": "Fixed",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: 20*50 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 0.7 mm panel 1.5 mm",
+        "net": "12KG",
+        "gross": "13.8KG",
+        "carton": "1290*685*85MM",
+        "img": "assets/tables/EZ-K-007/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-K-007/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-R-475",
+        "size": "120*60CM",
+        "adj": "Fixed",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: 40*60 40.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm panel 1.8 mm",
+        "net": "16KG",
+        "gross": "17.5KG",
+        "carton": "1290*685*85MM",
+        "img": "assets/tables/EZ-R-475/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-R-475/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-H-200",
+        "size": "120*60CM",
+        "adj": "Fixed",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: 40*60 40.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm panel 1.8 mm",
+        "net": "16KG",
+        "gross": "17.5KG",
+        "carton": "1290*685*85MM",
+        "img": "assets/tables/EZ-H-200/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-H-200/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-GT-04",
+        "size": "120*75CM",
+        "adj": "Fixed",
+        "desc": "Gaming desk with Z-shaped steel legs. Specs: 40x80 mm tube + 40 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Gaming Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm panel 1.8 mm",
+        "net": "18.4KG",
+        "gross": "20KG",
+        "carton": "1290*985*160MM",
+        "img": "assets/tables/EZ-GT-04/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-GT-04/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-S-G-05RBG",
+        "size": "140*100*60CM",
+        "adj": "Fixed",
+        "desc": "Height-adjustable standing desk, steel frame. Specs: 40x80 mm tube + 40 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Standing Desk",
+        "color": "Black / White",
+        "material": "tube 1.0 mm panel 1.8 mm",
+        "net": "18KG",
+        "gross": "21KG",
+        "carton": "1050*700*115MM",
+        "img": "assets/tables/EZ-S-G-05RBG/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-S-G-05RBG/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-ST-02",
+        "size": "137*46CM",
+        "adj": "Fixed",
+        "desc": "Office desk with drawers and open shelf.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Office Desk",
+        "color": "Black / White",
+        "material": "tube 0.8 mm panel 1.5 mm",
+        "net": "19KG",
+        "gross": "21.9KG",
+        "carton": "560*180*1420MM",
+        "img": "assets/tables/EZ-ST-02/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-ST-02/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-ST-03",
+        "size": "120*60CM",
+        "adj": "Fixed",
+        "desc": "Office desk with drawers and open shelf. Specs: 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Office Desk",
+        "color": "Natural Wood",
+        "material": "tube 0.7 mm panel 1.2 mm",
+        "net": "12KG",
+        "gross": "16KG",
+        "carton": "1250*650*80MM",
+        "img": "assets/tables/EZ-ST-03/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-ST-03/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-YG-01",
+        "size": "54*37CM",
+        "adj": "Fixed",
+        "desc": "Vintage-style side table / shelf unit with steel frame. Specs: 20x20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Vintage Side Table",
+        "color": "Vintage",
+        "material": "tube 0.7 mm panel 1.5 mm",
+        "net": "12KG",
+        "gross": "13KG",
+        "carton": "870*430*100MM",
+        "img": "assets/tables/EZ-YG-01/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-YG-01/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-YG-02",
+        "size": "88*40",
+        "adj": "Fixed",
+        "desc": "Vintage-style side table / shelf unit with steel frame. Specs: 20x20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Vintage Side Table",
+        "color": "Vintage",
+        "material": "tube 0.7 mm panel 1.5 mm",
+        "net": "15KG",
+        "gross": "17KG",
+        "carton": "930*430*160MM",
+        "img": "assets/tables/EZ-YG-02/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-YG-02/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-MJ-03",
+        "size": "120*40CM",
+        "adj": "Fixed",
+        "desc": "Manicure / nail table with steel frame. Specs: 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Manicure Table",
+        "color": "White / Gold",
+        "material": "tube 0.6 mm panel 1.2 mm",
+        "net": "11.2KG",
+        "gross": "13.2KG",
+        "carton": "127*47*10cm",
+        "img": "assets/tables/EZ-MJ-03/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-MJ-03/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-MJ-04",
+        "size": "120*40CM",
+        "adj": "Fixed",
+        "desc": "Manicure / nail table with steel frame. Specs: 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Manicure Table",
+        "color": "White / Gold",
+        "material": "tube 0.7 mm panel 1.2 mm",
+        "net": "13.5KG",
+        "gross": "15KG",
+        "carton": "1250*440*145mm",
+        "img": "assets/tables/EZ-MJ-04/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-MJ-04/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-MJ-05",
+        "size": "120*40CM",
+        "adj": "Fixed",
+        "desc": "Manicure / nail table with steel frame. Specs: 20 mm square tube.",
+        "moq": null,
+        "fob": null,
+        "accent": "fixed",
+        "type": "Manicure Table",
+        "color": "White / Gold",
+        "material": "tube 0.7 mm panel 1.2 mm",
+        "net": "14.5KG",
+        "gross": "16KG",
+        "carton": "1250*450*150mm",
+        "img": "assets/tables/EZ-MJ-05/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-MJ-05/photo-1.jpg"
+        ]
+      },
+      {
+        "sku": "EZ-ARMOR",
+        "size": "On request",
+        "adj": "RGB / LED",
+        "desc": "Armor-style RGB gaming desk frame kit with remote-controlled LED strips. Desktop thickness options 15/18/25 mm; remote controller included.",
+        "moq": null,
+        "fob": null,
+        "accent": "led",
+        "type": "Gaming Desk (RGB Armor)",
+        "color": "black",
+        "material": "steel + MDF",
+        "img": "assets/tables/EZ-ARMOR/photo-1.jpg",
+        "gallery": [
+          "assets/tables/EZ-ARMOR/photo-1.jpg",
+          "assets/tables/EZ-ARMOR/photo-2.jpg",
+          "assets/tables/EZ-ARMOR/photo-3.jpg",
+          "assets/tables/EZ-ARMOR/photo-4.jpg",
+          "assets/tables/EZ-ARMOR/photo-5.jpg"
+        ]
+      }
   ],
   "chairs": [
     {

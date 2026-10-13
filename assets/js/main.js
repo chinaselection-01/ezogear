@@ -136,12 +136,20 @@
           </div>
         </div>`;
     }
+    const extra = [
+      item.type ? `<li><strong>Type:</strong> ${item.type}</li>` : "",
+      item.color ? `<li><strong>Colors:</strong> ${item.color}</li>` : "",
+      item.material ? `<li><strong>Material:</strong> ${item.material}</li>` : "",
+      item.net ? `<li><strong>Weight:</strong> ${item.net}${item.gross ? " net / " + item.gross + " gross" : ""}</li>` : "",
+      item.carton ? `<li><strong>Carton:</strong> ${item.carton}</li>` : "",
+    ].join("");
     const specs = type === "table"
       ? `<ul>
            <li><strong>Model:</strong> ${item.sku}</li>
            <li><strong>Size:</strong> ${item.size}</li>
            <li><strong>Adjustment:</strong> ${item.adj}</li>
            <li><strong>Feature:</strong> ${item.desc}</li>
+           ${extra}
            <li><strong>MOQ:</strong> ${item.moq ? item.moq + " pcs" : "On request"}</li>
          </ul>`
       : type === "leisure"
