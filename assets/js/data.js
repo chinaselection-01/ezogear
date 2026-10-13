@@ -8,10 +8,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 31.6,
       "accent": "electric",
-      "img": "assets/tables/GT-14070-E/photo-1.jpg",
+      "img": "assets/tables/GT-14070-E/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-14070-E/photo-1.jpg",
-        "assets/tables/GT-14070-E/photo-2.jpg"
+        "assets/tables/GT-14070-E/photo-1.jpg?v=2",
+        "assets/tables/GT-14070-E/photo-2.jpg?v=2"
       ]
     },
     {
@@ -22,10 +22,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 28.2,
       "accent": "electric",
-      "img": "assets/tables/GT-12060-E1/photo-1.jpg",
+      "img": "assets/tables/GT-12060-E1/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-12060-E1/photo-1.jpg",
-        "assets/tables/GT-12060-E1/photo-2.jpg"
+        "assets/tables/GT-12060-E1/photo-1.jpg?v=2",
+        "assets/tables/GT-12060-E1/photo-2.jpg?v=2"
       ]
     },
     {
@@ -36,10 +36,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 26.8,
       "accent": "electric",
-      "img": "assets/tables/GT-12060-E2/photo-1.jpg",
+      "img": "assets/tables/GT-12060-E2/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-12060-E2/photo-1.jpg",
-        "assets/tables/GT-12060-E2/photo-2.jpg"
+        "assets/tables/GT-12060-E2/photo-1.jpg?v=2",
+        "assets/tables/GT-12060-E2/photo-2.jpg?v=2"
       ]
     },
     {
@@ -50,10 +50,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 25.2,
       "accent": "manual",
-      "img": "assets/tables/GT-12060-M/photo-1.jpg",
+      "img": "assets/tables/GT-12060-M/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-12060-M/photo-1.jpg",
-        "assets/tables/GT-12060-M/photo-2.jpg"
+        "assets/tables/GT-12060-M/photo-1.jpg?v=2",
+        "assets/tables/GT-12060-M/photo-2.jpg?v=2"
       ]
     },
     {
@@ -64,9 +64,9 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 11.6,
       "accent": "fixed",
-      "img": "assets/tables/GT-10085-F/photo-1.jpg",
+      "img": "assets/tables/GT-10085-F/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-10085-F/photo-1.jpg"
+        "assets/tables/GT-10085-F/photo-1.jpg?v=2"
       ]
     },
     {
@@ -77,10 +77,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 28.6,
       "accent": "manual",
-      "img": "assets/tables/GT-14060-M/photo-1.jpg",
+      "img": "assets/tables/GT-14060-M/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-14060-M/photo-1.jpg",
-        "assets/tables/GT-14060-M/photo-2.jpg"
+        "assets/tables/GT-14060-M/photo-1.jpg?v=2",
+        "assets/tables/GT-14060-M/photo-2.jpg?v=2"
       ]
     },
     {
@@ -91,10 +91,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 27.2,
       "accent": "fixed",
-      "img": "assets/tables/GT-14060-F/photo-1.jpg",
+      "img": "assets/tables/GT-14060-F/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-14060-F/photo-1.jpg",
-        "assets/tables/GT-14060-F/photo-2.jpg"
+        "assets/tables/GT-14060-F/photo-1.jpg?v=2",
+        "assets/tables/GT-14060-F/photo-2.jpg?v=2"
       ]
     },
     {
@@ -105,10 +105,10 @@ window.PRODUCTS = {
       "moq": 400,
       "fob": 29.8,
       "accent": "led",
-      "img": "assets/tables/GT-CORNER-LED/photo-1.jpg",
+      "img": "assets/tables/GT-CORNER-LED/photo-1.jpg?v=2",
       "gallery": [
-        "assets/tables/GT-CORNER-LED/photo-1.jpg",
-        "assets/tables/GT-CORNER-LED/photo-2.jpg"
+        "assets/tables/GT-CORNER-LED/photo-1.jpg?v=2",
+        "assets/tables/GT-CORNER-LED/photo-2.jpg?v=2"
       ]
     },
     {
@@ -125,9 +125,9 @@ window.PRODUCTS = {
         "net": "10KG",
         "gross": "12KG",
         "carton": "110*67*13CM",
-        "img": "assets/tables/EZ-S-06/photo-1.jpg",
+        "img": "assets/tables/EZ-S-06/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-06/photo-1.jpg"
+          "assets/tables/EZ-S-06/photo-1.jpg?v=2"
         ]
       },
       {
@@ -144,9 +144,9 @@ window.PRODUCTS = {
         "net": "16.5KG",
         "gross": "18.5KG",
         "carton": "124*64*14CM",
-        "img": "assets/tables/EZ-S-02/photo-1.jpg",
+        "img": "assets/tables/EZ-S-02/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-02/photo-1.jpg"
+          "assets/tables/EZ-S-02/photo-1.jpg?v=2"
         ]
       },
       {
@@ -163,9 +163,9 @@ window.PRODUCTS = {
         "net": "21KG",
         "gross": "23KG",
         "carton": "124*64*13CM",
-        "img": "assets/tables/EZ-SD-15/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-15/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-15/photo-1.jpg"
+          "assets/tables/EZ-SD-15/photo-1.jpg?v=2"
         ]
       },
       {
@@ -182,9 +182,9 @@ window.PRODUCTS = {
         "net": "12.5KG",
         "gross": "14KG",
         "carton": "1310*710*100",
-        "img": "assets/tables/EZ-GD-2585/photo-1.jpg",
+        "img": "assets/tables/EZ-GD-2585/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GD-2585/photo-1.jpg"
+          "assets/tables/EZ-GD-2585/photo-1.jpg?v=2"
         ]
       },
       {
@@ -201,9 +201,9 @@ window.PRODUCTS = {
         "net": "12KG",
         "gross": "13.5KG",
         "carton": "1250*650*100",
-        "img": "assets/tables/EZ-GD-2530/photo-1.jpg",
+        "img": "assets/tables/EZ-GD-2530/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GD-2530/photo-1.jpg"
+          "assets/tables/EZ-GD-2530/photo-1.jpg?v=2"
         ]
       },
       {
@@ -220,9 +220,9 @@ window.PRODUCTS = {
         "net": "12.5KG",
         "gross": "14KG",
         "carton": "1250*650*100",
-        "img": "assets/tables/EZ-GD-2535/photo-1.jpg",
+        "img": "assets/tables/EZ-GD-2535/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GD-2535/photo-1.jpg"
+          "assets/tables/EZ-GD-2535/photo-1.jpg?v=2"
         ]
       },
       {
@@ -239,9 +239,9 @@ window.PRODUCTS = {
         "net": "12KG",
         "gross": "13.5KG",
         "carton": "1250*650*100",
-        "img": "assets/tables/EZ-GD-2540/photo-1.jpg",
+        "img": "assets/tables/EZ-GD-2540/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GD-2540/photo-1.jpg"
+          "assets/tables/EZ-GD-2540/photo-1.jpg?v=2"
         ]
       },
       {
@@ -258,9 +258,9 @@ window.PRODUCTS = {
         "net": "17KG",
         "gross": "19KG",
         "carton": "1250*350*120MM",
-        "img": "assets/tables/EZ-SD-02+/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-02+/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-02+/photo-1.jpg"
+          "assets/tables/EZ-SD-02+/photo-1.jpg?v=2"
         ]
       },
       {
@@ -277,9 +277,9 @@ window.PRODUCTS = {
         "net": "17KG",
         "gross": "19KG",
         "carton": "1250*650*100MM",
-        "img": "assets/tables/EZ-SD-03+/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-03+/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-03+/photo-1.jpg"
+          "assets/tables/EZ-SD-03+/photo-1.jpg?v=2"
         ]
       },
       {
@@ -296,9 +296,9 @@ window.PRODUCTS = {
         "net": "17KG",
         "gross": "19KG",
         "carton": "1250*650*100MM",
-        "img": "assets/tables/EZ-SD-03+USB/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-03+USB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-03+USB/photo-1.jpg"
+          "assets/tables/EZ-SD-03+USB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -315,9 +315,9 @@ window.PRODUCTS = {
         "net": "19KG",
         "gross": "21KG",
         "carton": "73*65*11CM",
-        "img": "assets/tables/EZ-SD-33+/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-33+/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-33+/photo-1.jpg"
+          "assets/tables/EZ-SD-33+/photo-1.jpg?v=2"
         ]
       },
       {
@@ -334,9 +334,9 @@ window.PRODUCTS = {
         "net": "17KG",
         "gross": "19KG",
         "carton": "1250*650*100MM",
-        "img": "assets/tables/EZ-SD-04+/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-04+/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-04+/photo-1.jpg"
+          "assets/tables/EZ-SD-04+/photo-1.jpg?v=2"
         ]
       },
       {
@@ -353,9 +353,9 @@ window.PRODUCTS = {
         "net": "22KG",
         "gross": "24KG",
         "carton": "1250*650*100MM",
-        "img": "assets/tables/EZ-SD-05RGB/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-05RGB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-05RGB/photo-1.jpg"
+          "assets/tables/EZ-SD-05RGB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -372,9 +372,9 @@ window.PRODUCTS = {
         "net": "26KG",
         "gross": "28KG",
         "carton": "1240*64*11CM",
-        "img": "assets/tables/EZ-SD-06RGB/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-06RGB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-06RGB/photo-1.jpg"
+          "assets/tables/EZ-SD-06RGB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -391,9 +391,9 @@ window.PRODUCTS = {
         "net": "20KG",
         "gross": "22KG",
         "carton": "1250*650*100MM",
-        "img": "assets/tables/EZ-SD-03/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-03/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-03/photo-1.jpg"
+          "assets/tables/EZ-SD-03/photo-1.jpg?v=2"
         ]
       },
       {
@@ -409,9 +409,9 @@ window.PRODUCTS = {
         "net": "17KG",
         "gross": "18.5KG",
         "carton": "106*34*15CM",
-        "img": "assets/tables/EZ-SD-S-01/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-S-01/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-S-01/photo-1.jpg"
+          "assets/tables/EZ-SD-S-01/photo-1.jpg?v=2"
         ]
       },
       {
@@ -428,9 +428,9 @@ window.PRODUCTS = {
         "net": "25KG",
         "gross": "27KG",
         "carton": "124*64*15CM",
-        "img": "assets/tables/EZ-SD-13/photo-1.jpg",
+        "img": "assets/tables/EZ-SD-13/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-SD-13/photo-1.jpg"
+          "assets/tables/EZ-SD-13/photo-1.jpg?v=2"
         ]
       },
       {
@@ -447,9 +447,9 @@ window.PRODUCTS = {
         "net": "17KG",
         "gross": "19KG",
         "carton": "1050*550*120MM",
-        "img": "assets/tables/EZ-GD-2750/photo-1.jpg",
+        "img": "assets/tables/EZ-GD-2750/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GD-2750/photo-1.jpg"
+          "assets/tables/EZ-GD-2750/photo-1.jpg?v=2"
         ]
       },
       {
@@ -466,9 +466,9 @@ window.PRODUCTS = {
         "net": "13.2KG",
         "gross": "15.3KG",
         "carton": "1250*650*120MM",
-        "img": "assets/tables/EZ-G-04RGB/photo-1.jpg",
+        "img": "assets/tables/EZ-G-04RGB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-G-04RGB/photo-1.jpg"
+          "assets/tables/EZ-G-04RGB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -485,9 +485,9 @@ window.PRODUCTS = {
         "net": "16KG",
         "gross": "18KG",
         "carton": "1450*650*90MM",
-        "img": "assets/tables/EZ-GD-06RGB/photo-1.jpg",
+        "img": "assets/tables/EZ-GD-06RGB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GD-06RGB/photo-1.jpg"
+          "assets/tables/EZ-GD-06RGB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -504,9 +504,9 @@ window.PRODUCTS = {
         "net": "16KG",
         "gross": "18KG",
         "carton": "1450*650*90MM",
-        "img": "assets/tables/EZ-S-31RGB/photo-1.jpg",
+        "img": "assets/tables/EZ-S-31RGB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-31RGB/photo-1.jpg"
+          "assets/tables/EZ-S-31RGB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -523,9 +523,9 @@ window.PRODUCTS = {
         "net": "16KG",
         "gross": "18KG",
         "carton": "1450*650*90MM",
-        "img": "assets/tables/EZ-S-32RGB/photo-1.jpg",
+        "img": "assets/tables/EZ-S-32RGB/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-32RGB/photo-1.jpg"
+          "assets/tables/EZ-S-32RGB/photo-1.jpg?v=2"
         ]
       },
       {
@@ -542,9 +542,9 @@ window.PRODUCTS = {
         "net": "19.5KG",
         "gross": "21.5KG",
         "carton": "99*52*15CM",
-        "img": "assets/tables/EZ-S-1688/photo-1.jpg",
+        "img": "assets/tables/EZ-S-1688/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-1688/photo-1.jpg"
+          "assets/tables/EZ-S-1688/photo-1.jpg?v=2"
         ]
       },
       {
@@ -561,9 +561,9 @@ window.PRODUCTS = {
         "net": "20KG",
         "gross": "22KG",
         "carton": "750*540*165mm",
-        "img": "assets/tables/EZ-S-1689/photo-1.jpg",
+        "img": "assets/tables/EZ-S-1689/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-1689/photo-1.jpg"
+          "assets/tables/EZ-S-1689/photo-1.jpg?v=2"
         ]
       },
       {
@@ -580,9 +580,9 @@ window.PRODUCTS = {
         "net": "12KG",
         "gross": "14KG",
         "carton": "1300*690*12MM",
-        "img": "assets/tables/EZ-K-006/photo-1.jpg",
+        "img": "assets/tables/EZ-K-006/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-K-006/photo-1.jpg"
+          "assets/tables/EZ-K-006/photo-1.jpg?v=2"
         ]
       },
       {
@@ -599,9 +599,9 @@ window.PRODUCTS = {
         "net": "12KG",
         "gross": "13.8KG",
         "carton": "1290*685*85MM",
-        "img": "assets/tables/EZ-K-007/photo-1.jpg",
+        "img": "assets/tables/EZ-K-007/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-K-007/photo-1.jpg"
+          "assets/tables/EZ-K-007/photo-1.jpg?v=2"
         ]
       },
       {
@@ -618,9 +618,9 @@ window.PRODUCTS = {
         "net": "16KG",
         "gross": "17.5KG",
         "carton": "1290*685*85MM",
-        "img": "assets/tables/EZ-R-475/photo-1.jpg",
+        "img": "assets/tables/EZ-R-475/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-R-475/photo-1.jpg"
+          "assets/tables/EZ-R-475/photo-1.jpg?v=2"
         ]
       },
       {
@@ -637,9 +637,9 @@ window.PRODUCTS = {
         "net": "16KG",
         "gross": "17.5KG",
         "carton": "1290*685*85MM",
-        "img": "assets/tables/EZ-H-200/photo-1.jpg",
+        "img": "assets/tables/EZ-H-200/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-H-200/photo-1.jpg"
+          "assets/tables/EZ-H-200/photo-1.jpg?v=2"
         ]
       },
       {
@@ -656,9 +656,9 @@ window.PRODUCTS = {
         "net": "18.4KG",
         "gross": "20KG",
         "carton": "1290*985*160MM",
-        "img": "assets/tables/EZ-GT-04/photo-1.jpg",
+        "img": "assets/tables/EZ-GT-04/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-GT-04/photo-1.jpg"
+          "assets/tables/EZ-GT-04/photo-1.jpg?v=2"
         ]
       },
       {
@@ -675,9 +675,9 @@ window.PRODUCTS = {
         "net": "18KG",
         "gross": "21KG",
         "carton": "1050*700*115MM",
-        "img": "assets/tables/EZ-S-G-05RBG/photo-1.jpg",
+        "img": "assets/tables/EZ-S-G-05RBG/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-S-G-05RBG/photo-1.jpg"
+          "assets/tables/EZ-S-G-05RBG/photo-1.jpg?v=2"
         ]
       },
       {
@@ -694,9 +694,9 @@ window.PRODUCTS = {
         "net": "19KG",
         "gross": "21.9KG",
         "carton": "560*180*1420MM",
-        "img": "assets/tables/EZ-ST-02/photo-1.jpg",
+        "img": "assets/tables/EZ-ST-02/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-ST-02/photo-1.jpg"
+          "assets/tables/EZ-ST-02/photo-1.jpg?v=2"
         ]
       },
       {
@@ -713,9 +713,9 @@ window.PRODUCTS = {
         "net": "12KG",
         "gross": "16KG",
         "carton": "1250*650*80MM",
-        "img": "assets/tables/EZ-ST-03/photo-1.jpg",
+        "img": "assets/tables/EZ-ST-03/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-ST-03/photo-1.jpg"
+          "assets/tables/EZ-ST-03/photo-1.jpg?v=2"
         ]
       },
       {
@@ -732,9 +732,9 @@ window.PRODUCTS = {
         "net": "12KG",
         "gross": "13KG",
         "carton": "870*430*100MM",
-        "img": "assets/tables/EZ-YG-01/photo-1.jpg",
+        "img": "assets/tables/EZ-YG-01/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-YG-01/photo-1.jpg"
+          "assets/tables/EZ-YG-01/photo-1.jpg?v=2"
         ]
       },
       {
@@ -751,9 +751,9 @@ window.PRODUCTS = {
         "net": "15KG",
         "gross": "17KG",
         "carton": "930*430*160MM",
-        "img": "assets/tables/EZ-YG-02/photo-1.jpg",
+        "img": "assets/tables/EZ-YG-02/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-YG-02/photo-1.jpg"
+          "assets/tables/EZ-YG-02/photo-1.jpg?v=2"
         ]
       },
       {
@@ -770,9 +770,9 @@ window.PRODUCTS = {
         "net": "11.2KG",
         "gross": "13.2KG",
         "carton": "127*47*10cm",
-        "img": "assets/tables/EZ-MJ-03/photo-1.jpg",
+        "img": "assets/tables/EZ-MJ-03/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-MJ-03/photo-1.jpg"
+          "assets/tables/EZ-MJ-03/photo-1.jpg?v=2"
         ]
       },
       {
@@ -789,9 +789,9 @@ window.PRODUCTS = {
         "net": "13.5KG",
         "gross": "15KG",
         "carton": "1250*440*145mm",
-        "img": "assets/tables/EZ-MJ-04/photo-1.jpg",
+        "img": "assets/tables/EZ-MJ-04/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-MJ-04/photo-1.jpg"
+          "assets/tables/EZ-MJ-04/photo-1.jpg?v=2"
         ]
       },
       {
@@ -808,9 +808,9 @@ window.PRODUCTS = {
         "net": "14.5KG",
         "gross": "16KG",
         "carton": "1250*450*150mm",
-        "img": "assets/tables/EZ-MJ-05/photo-1.jpg",
+        "img": "assets/tables/EZ-MJ-05/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-MJ-05/photo-1.jpg"
+          "assets/tables/EZ-MJ-05/photo-1.jpg?v=2"
         ]
       },
       {
@@ -824,13 +824,13 @@ window.PRODUCTS = {
         "type": "Gaming Desk (RGB Armor)",
         "color": "black",
         "material": "steel + MDF",
-        "img": "assets/tables/EZ-ARMOR/photo-1.jpg",
+        "img": "assets/tables/EZ-ARMOR/photo-1.jpg?v=2",
         "gallery": [
-          "assets/tables/EZ-ARMOR/photo-1.jpg",
-          "assets/tables/EZ-ARMOR/photo-2.jpg",
-          "assets/tables/EZ-ARMOR/photo-3.jpg",
-          "assets/tables/EZ-ARMOR/photo-4.jpg",
-          "assets/tables/EZ-ARMOR/photo-5.jpg"
+          "assets/tables/EZ-ARMOR/photo-1.jpg?v=2",
+          "assets/tables/EZ-ARMOR/photo-2.jpg?v=2",
+          "assets/tables/EZ-ARMOR/photo-3.jpg?v=2",
+          "assets/tables/EZ-ARMOR/photo-4.jpg?v=2",
+          "assets/tables/EZ-ARMOR/photo-5.jpg?v=2"
         ]
       }
   ],
@@ -841,13 +841,13 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC5004/GC5004-1.jpg",
+      "cover": "assets/chairs/GC5004/GC5004-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC5004/GC5004-1.jpg",
-        "assets/chairs/GC5004/GC5004-2.jpg",
-        "assets/chairs/GC5004/GC5004-3.jpg",
-        "assets/chairs/GC5004/GC5004-4.jpg",
-        "assets/chairs/GC5004/GC5004-5.jpg"
+        "assets/chairs/GC5004/GC5004-1.jpg?v=2",
+        "assets/chairs/GC5004/GC5004-2.jpg?v=2",
+        "assets/chairs/GC5004/GC5004-3.jpg?v=2",
+        "assets/chairs/GC5004/GC5004-4.jpg?v=2",
+        "assets/chairs/GC5004/GC5004-5.jpg?v=2"
       ]
     },
     {
@@ -856,14 +856,14 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC6106/GC6106-1.jpg",
+      "cover": "assets/chairs/GC6106/GC6106-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC6106/GC6106-1.jpg",
-        "assets/chairs/GC6106/GC6106-2.jpg",
-        "assets/chairs/GC6106/GC6106-3.jpg",
-        "assets/chairs/GC6106/GC6106-4.jpg",
-        "assets/chairs/GC6106/GC6106-5.jpg",
-        "assets/chairs/GC6106/GC6106-6.jpg"
+        "assets/chairs/GC6106/GC6106-1.jpg?v=2",
+        "assets/chairs/GC6106/GC6106-2.jpg?v=2",
+        "assets/chairs/GC6106/GC6106-3.jpg?v=2",
+        "assets/chairs/GC6106/GC6106-4.jpg?v=2",
+        "assets/chairs/GC6106/GC6106-5.jpg?v=2",
+        "assets/chairs/GC6106/GC6106-6.jpg?v=2"
       ]
     },
     {
@@ -872,19 +872,19 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC6108/GC6108-1.jpg",
+      "cover": "assets/chairs/GC6108/GC6108-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC6108/GC6108-1.jpg",
-        "assets/chairs/GC6108/GC6108-10.jpg",
-        "assets/chairs/GC6108/GC6108-11.jpg",
-        "assets/chairs/GC6108/GC6108-2.jpg",
-        "assets/chairs/GC6108/GC6108-3.jpg",
-        "assets/chairs/GC6108/GC6108-4.jpg",
-        "assets/chairs/GC6108/GC6108-5.jpg",
-        "assets/chairs/GC6108/GC6108-6.jpg",
-        "assets/chairs/GC6108/GC6108-7.jpg",
-        "assets/chairs/GC6108/GC6108-8.jpg",
-        "assets/chairs/GC6108/GC6108-9.jpg"
+        "assets/chairs/GC6108/GC6108-1.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-10.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-11.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-2.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-3.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-4.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-5.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-6.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-7.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-8.jpg?v=2",
+        "assets/chairs/GC6108/GC6108-9.jpg?v=2"
       ]
     },
     {
@@ -893,13 +893,13 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC6111BW/GC6111-B-W-4.jpg",
+      "cover": "assets/chairs/GC6111BW/GC6111-B-W-4.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC6111BW/GC6111-B-W-4.jpg",
-        "assets/chairs/GC6111BW/GC6111-B-W-5.jpg",
-        "assets/chairs/GC6111BW/GC6111-B-W-6.jpg",
-        "assets/chairs/GC6111BW/GC6111-B-W-7.jpg",
-        "assets/chairs/GC6111BW/GC6111-B-W-8.jpg"
+        "assets/chairs/GC6111BW/GC6111-B-W-4.jpg?v=2",
+        "assets/chairs/GC6111BW/GC6111-B-W-5.jpg?v=2",
+        "assets/chairs/GC6111BW/GC6111-B-W-6.jpg?v=2",
+        "assets/chairs/GC6111BW/GC6111-B-W-7.jpg?v=2",
+        "assets/chairs/GC6111BW/GC6111-B-W-8.jpg?v=2"
       ]
     },
     {
@@ -908,14 +908,14 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC6111PINK/GC6111-BLA-PINK-1.jpg",
+      "cover": "assets/chairs/GC6111PINK/GC6111-BLA-PINK-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-1.jpg",
-        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-2.jpg",
-        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-3.jpg",
-        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-4.jpg",
-        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-5.jpg",
-        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-6.jpg"
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-1.jpg?v=2",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-2.jpg?v=2",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-3.jpg?v=2",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-4.jpg?v=2",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-5.jpg?v=2",
+        "assets/chairs/GC6111PINK/GC6111-BLA-PINK-6.jpg?v=2"
       ]
     },
     {
@@ -924,15 +924,15 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC6111RED/GC6111-BLA-RED-2.jpg",
+      "cover": "assets/chairs/GC6111RED/GC6111-BLA-RED-2.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-2.jpg",
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-3.jpg",
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-4.jpg",
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-5.jpg",
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-6.jpg",
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-7.jpg",
-        "assets/chairs/GC6111RED/GC6111-BLA-RED-8.jpg"
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-2.jpg?v=2",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-3.jpg?v=2",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-4.jpg?v=2",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-5.jpg?v=2",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-6.jpg?v=2",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-7.jpg?v=2",
+        "assets/chairs/GC6111RED/GC6111-BLA-RED-8.jpg?v=2"
       ]
     },
     {
@@ -941,14 +941,14 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC5017/GC5017-P-W-1.jpg",
+      "cover": "assets/chairs/GC5017/GC5017-P-W-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC5017/GC5017-P-W-1.jpg",
-        "assets/chairs/GC5017/GC5017-P-W-2.jpg",
-        "assets/chairs/GC5017/GC5017-P-W-3.jpg",
-        "assets/chairs/GC5017/GC5017-P-W-4.jpg",
-        "assets/chairs/GC5017/GC5017-P-W-5.jpg",
-        "assets/chairs/GC5017/GC5017-P-W-6.jpg"
+        "assets/chairs/GC5017/GC5017-P-W-1.jpg?v=2",
+        "assets/chairs/GC5017/GC5017-P-W-2.jpg?v=2",
+        "assets/chairs/GC5017/GC5017-P-W-3.jpg?v=2",
+        "assets/chairs/GC5017/GC5017-P-W-4.jpg?v=2",
+        "assets/chairs/GC5017/GC5017-P-W-5.jpg?v=2",
+        "assets/chairs/GC5017/GC5017-P-W-6.jpg?v=2"
       ]
     },
     {
@@ -957,14 +957,14 @@ window.PRODUCTS = {
       "desc": "Ergonomic racing-style gaming chair with adjustable backrest, armrests and lumbar support.",
       "moq": 300,
       "fob": null,
-      "cover": "assets/chairs/GC5018/GC5018-B-W-1.jpg",
+      "cover": "assets/chairs/GC5018/GC5018-B-W-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/GC5018/GC5018-B-W-1.jpg",
-        "assets/chairs/GC5018/GC5018-B-W-2.jpg",
-        "assets/chairs/GC5018/GC5018-B-W-3.jpg",
-        "assets/chairs/GC5018/GC5018-B-W-4.jpg",
-        "assets/chairs/GC5018/GC5018-B-W-5.jpg",
-        "assets/chairs/GC5018/GC5018-B-W-6.jpg"
+        "assets/chairs/GC5018/GC5018-B-W-1.jpg?v=2",
+        "assets/chairs/GC5018/GC5018-B-W-2.jpg?v=2",
+        "assets/chairs/GC5018/GC5018-B-W-3.jpg?v=2",
+        "assets/chairs/GC5018/GC5018-B-W-4.jpg?v=2",
+        "assets/chairs/GC5018/GC5018-B-W-5.jpg?v=2",
+        "assets/chairs/GC5018/GC5018-B-W-6.jpg?v=2"
       ]
     },
     {
@@ -973,12 +973,12 @@ window.PRODUCTS = {
       "desc": "W56*D50*H74-82cm, seat height 42-50cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm swivel casters.",
       "moq": null,
       "fob": 9.4,
-      "cover": "assets/chairs/Y-06/photo-1.jpg",
+      "cover": "assets/chairs/Y-06/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-06/photo-1.jpg",
-        "assets/chairs/Y-06/photo-2.jpg",
-        "assets/chairs/Y-06/photo-3.jpg",
-        "assets/chairs/Y-06/photo-4.jpg"
+        "assets/chairs/Y-06/photo-1.jpg?v=2",
+        "assets/chairs/Y-06/photo-2.jpg?v=2",
+        "assets/chairs/Y-06/photo-3.jpg?v=2",
+        "assets/chairs/Y-06/photo-4.jpg?v=2"
       ]
     },
     {
@@ -987,12 +987,12 @@ window.PRODUCTS = {
       "desc": "W54*D45*H82-90cm, seat height 42-50cm. PP back with mesh fabric, 240mm nylon base, with footrest and armrest.",
       "moq": null,
       "fob": 10,
-      "cover": "assets/chairs/Y-03/photo-1.jpg",
+      "cover": "assets/chairs/Y-03/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-03/photo-1.jpg",
-        "assets/chairs/Y-03/photo-2.jpg",
-        "assets/chairs/Y-03/photo-3.jpg",
-        "assets/chairs/Y-03/photo-4.jpg"
+        "assets/chairs/Y-03/photo-1.jpg?v=2",
+        "assets/chairs/Y-03/photo-2.jpg?v=2",
+        "assets/chairs/Y-03/photo-3.jpg?v=2",
+        "assets/chairs/Y-03/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1001,12 +1001,12 @@ window.PRODUCTS = {
       "desc": "W57*D51*H89-97cm, seat height 42-50cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm swivel casters, flip-up armrest.",
       "moq": null,
       "fob": 10.3,
-      "cover": "assets/chairs/Y-05/photo-1.jpg",
+      "cover": "assets/chairs/Y-05/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-05/photo-1.jpg",
-        "assets/chairs/Y-05/photo-2.jpg",
-        "assets/chairs/Y-05/photo-3.jpg",
-        "assets/chairs/Y-05/photo-4.jpg"
+        "assets/chairs/Y-05/photo-1.jpg?v=2",
+        "assets/chairs/Y-05/photo-2.jpg?v=2",
+        "assets/chairs/Y-05/photo-3.jpg?v=2",
+        "assets/chairs/Y-05/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1015,12 +1015,12 @@ window.PRODUCTS = {
       "desc": "W53*D48.5*H81-88cm, seat height 41-49cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm gravity self-locking casters, with footrest.",
       "moq": null,
       "fob": 10.8,
-      "cover": "assets/chairs/Y-14/photo-1.jpg",
+      "cover": "assets/chairs/Y-14/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-14/photo-1.jpg",
-        "assets/chairs/Y-14/photo-2.jpg",
-        "assets/chairs/Y-14/photo-3.jpg",
-        "assets/chairs/Y-14/photo-4.jpg"
+        "assets/chairs/Y-14/photo-1.jpg?v=2",
+        "assets/chairs/Y-14/photo-2.jpg?v=2",
+        "assets/chairs/Y-14/photo-3.jpg?v=2",
+        "assets/chairs/Y-14/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1029,12 +1029,12 @@ window.PRODUCTS = {
       "desc": "W53*D52*H87-95cm, seat height 41-49cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm swivel casters.",
       "moq": null,
       "fob": 11.5,
-      "cover": "assets/chairs/Y-07/photo-1.jpg",
+      "cover": "assets/chairs/Y-07/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-07/photo-1.jpg",
-        "assets/chairs/Y-07/photo-2.jpg",
-        "assets/chairs/Y-07/photo-3.jpg",
-        "assets/chairs/Y-07/photo-4.jpg"
+        "assets/chairs/Y-07/photo-1.jpg?v=2",
+        "assets/chairs/Y-07/photo-2.jpg?v=2",
+        "assets/chairs/Y-07/photo-3.jpg?v=2",
+        "assets/chairs/Y-07/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1043,12 +1043,12 @@ window.PRODUCTS = {
       "desc": "W59*D53*H84-92cm, seat height 44.5-49.5cm. PP back with mesh fabric, 85mm class-1 gaslift, 270mm nylon base, 50mm swivel casters.",
       "moq": null,
       "fob": 11.7,
-      "cover": "assets/chairs/A-06/photo-1.jpg",
+      "cover": "assets/chairs/A-06/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/A-06/photo-1.jpg",
-        "assets/chairs/A-06/photo-2.jpg",
-        "assets/chairs/A-06/photo-3.jpg",
-        "assets/chairs/A-06/photo-4.jpg"
+        "assets/chairs/A-06/photo-1.jpg?v=2",
+        "assets/chairs/A-06/photo-2.jpg?v=2",
+        "assets/chairs/A-06/photo-3.jpg?v=2",
+        "assets/chairs/A-06/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1057,11 +1057,11 @@ window.PRODUCTS = {
       "desc": "W58.5*D51*H80-88cm, seat height 41-49cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm swivel casters, with footrest.",
       "moq": null,
       "fob": 13.9,
-      "cover": "assets/chairs/Y-12/photo-1.jpg",
+      "cover": "assets/chairs/Y-12/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-12/photo-1.jpg",
-        "assets/chairs/Y-12/photo-2.jpg",
-        "assets/chairs/Y-12/photo-3.jpg"
+        "assets/chairs/Y-12/photo-1.jpg?v=2",
+        "assets/chairs/Y-12/photo-2.jpg?v=2",
+        "assets/chairs/Y-12/photo-3.jpg?v=2"
       ]
     },
     {
@@ -1070,11 +1070,11 @@ window.PRODUCTS = {
       "desc": "W59*D52*H80-88cm, seat height 43-51cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm swivel casters, with footrest.",
       "moq": null,
       "fob": 13.9,
-      "cover": "assets/chairs/Y-11/photo-1.jpg",
+      "cover": "assets/chairs/Y-11/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-11/photo-1.jpg",
-        "assets/chairs/Y-11/photo-2.jpg",
-        "assets/chairs/Y-11/photo-3.jpg"
+        "assets/chairs/Y-11/photo-1.jpg?v=2",
+        "assets/chairs/Y-11/photo-2.jpg?v=2",
+        "assets/chairs/Y-11/photo-3.jpg?v=2"
       ]
     },
     {
@@ -1083,12 +1083,12 @@ window.PRODUCTS = {
       "desc": "W60*D50*H79-87cm, seat height 41-49cm. PP back with mesh fabric, 85mm class-1 gaslift, 50mm swivel casters, with armrest.",
       "moq": null,
       "fob": 15,
-      "cover": "assets/chairs/Y-08/photo-1.jpg",
+      "cover": "assets/chairs/Y-08/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-08/photo-1.jpg",
-        "assets/chairs/Y-08/photo-2.jpg",
-        "assets/chairs/Y-08/photo-3.jpg",
-        "assets/chairs/Y-08/photo-4.jpg"
+        "assets/chairs/Y-08/photo-1.jpg?v=2",
+        "assets/chairs/Y-08/photo-2.jpg?v=2",
+        "assets/chairs/Y-08/photo-3.jpg?v=2",
+        "assets/chairs/Y-08/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1097,12 +1097,12 @@ window.PRODUCTS = {
       "desc": "W53*D54*H80-88cm, seat height 38-46cm. PP back with mesh fabric, 85mm class-1 gaslift, 240mm nylon base, 50mm swivel casters.",
       "moq": null,
       "fob": 20,
-      "cover": "assets/chairs/Y-01/photo-1.jpg",
+      "cover": "assets/chairs/Y-01/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-01/photo-1.jpg",
-        "assets/chairs/Y-01/photo-2.jpg",
-        "assets/chairs/Y-01/photo-3.jpg",
-        "assets/chairs/Y-01/photo-4.jpg"
+        "assets/chairs/Y-01/photo-1.jpg?v=2",
+        "assets/chairs/Y-01/photo-2.jpg?v=2",
+        "assets/chairs/Y-01/photo-3.jpg?v=2",
+        "assets/chairs/Y-01/photo-4.jpg?v=2"
       ]
     },
     {
@@ -1111,11 +1111,11 @@ window.PRODUCTS = {
       "desc": "W63*D52*H88-96cm, seat height 43-51cm. PP back with mesh fabric, molded foam seat, 85mm class-1 gaslift.",
       "moq": null,
       "fob": 21.3,
-      "cover": "assets/chairs/Y-15/photo-1.jpg",
+      "cover": "assets/chairs/Y-15/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/Y-15/photo-1.jpg",
-        "assets/chairs/Y-15/photo-2.jpg",
-        "assets/chairs/Y-15/photo-3.jpg"
+        "assets/chairs/Y-15/photo-1.jpg?v=2",
+        "assets/chairs/Y-15/photo-2.jpg?v=2",
+        "assets/chairs/Y-15/photo-3.jpg?v=2"
       ]
     },
     {
@@ -1124,9 +1124,9 @@ window.PRODUCTS = {
       "desc": "W59*D63*H102-110cm, seat height 47-55cm. PP back with mesh fabric, 85mm class-1 gaslift, 320mm nylon base, 50mm swivel casters, tilt-lock mechanism.",
       "moq": null,
       "fob": 15.7,
-      "cover": "assets/chairs/A-08/photo-1.jpg",
+      "cover": "assets/chairs/A-08/photo-1.jpg?v=2",
       "gallery": [
-        "assets/chairs/A-08/photo-1.jpg"
+        "assets/chairs/A-08/photo-1.jpg?v=2"
       ]
     }
   ],
@@ -1138,9 +1138,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-01/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-01/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-01/photo-1.jpg"
+      "assets/leisure/EZ-B-01/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1150,9 +1150,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-01C/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-01C/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-01C/photo-1.jpg"
+      "assets/leisure/EZ-B-01C/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1162,9 +1162,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-01F/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-01F/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-01F/photo-1.jpg"
+      "assets/leisure/EZ-B-01F/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1174,9 +1174,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-01S/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-01S/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-01S/photo-1.jpg"
+      "assets/leisure/EZ-B-01S/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1186,10 +1186,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-03/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-03/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-03/photo-1.jpg",
-      "assets/leisure/EZ-B-03/photo-2.jpg"
+      "assets/leisure/EZ-B-03/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-03/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1199,9 +1199,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-05/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-05/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-05/photo-1.jpg"
+      "assets/leisure/EZ-B-05/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1211,9 +1211,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-07/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-07/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-07/photo-1.jpg"
+      "assets/leisure/EZ-B-07/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1223,13 +1223,13 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-08KW/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-08KW/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-08KW/photo-1.jpg",
-      "assets/leisure/EZ-B-08KW/photo-2.jpg",
-      "assets/leisure/EZ-B-08KW/photo-3.jpg",
-      "assets/leisure/EZ-B-08KW/photo-4.jpg",
-      "assets/leisure/EZ-B-08KW/photo-5.jpg"
+      "assets/leisure/EZ-B-08KW/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-08KW/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-08KW/photo-3.jpg?v=2",
+      "assets/leisure/EZ-B-08KW/photo-4.jpg?v=2",
+      "assets/leisure/EZ-B-08KW/photo-5.jpg?v=2"
     ]
   },
   {
@@ -1239,16 +1239,16 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-08W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-08W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-08W/photo-1.jpg",
-      "assets/leisure/EZ-B-08W/photo-2.jpg",
-      "assets/leisure/EZ-B-08W/photo-3.jpg",
-      "assets/leisure/EZ-B-08W/photo-4.jpg",
-      "assets/leisure/EZ-B-08W/photo-5.jpg",
-      "assets/leisure/EZ-B-08W/photo-6.jpg",
-      "assets/leisure/EZ-B-08W/photo-7.jpg",
-      "assets/leisure/EZ-B-08W/photo-8.jpg"
+      "assets/leisure/EZ-B-08W/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-3.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-4.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-5.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-6.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-7.jpg?v=2",
+      "assets/leisure/EZ-B-08W/photo-8.jpg?v=2"
     ]
   },
   {
@@ -1258,9 +1258,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-09/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-09/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-09/photo-1.jpg"
+      "assets/leisure/EZ-B-09/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1270,10 +1270,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-09W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-09W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-09W/photo-1.jpg",
-      "assets/leisure/EZ-B-09W/photo-2.jpg"
+      "assets/leisure/EZ-B-09W/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-09W/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1283,9 +1283,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-106/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-106/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-106/photo-1.jpg"
+      "assets/leisure/EZ-B-106/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1295,9 +1295,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-107/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-107/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-107/photo-1.jpg"
+      "assets/leisure/EZ-B-107/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1307,9 +1307,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-108/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-108/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-108/photo-1.jpg"
+      "assets/leisure/EZ-B-108/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1319,9 +1319,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-12/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-12/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-12/photo-1.jpg"
+      "assets/leisure/EZ-B-12/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1331,9 +1331,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-12K/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-12K/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-12K/photo-1.jpg"
+      "assets/leisure/EZ-B-12K/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1343,9 +1343,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-12W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-12W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-12W/photo-1.jpg"
+      "assets/leisure/EZ-B-12W/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1355,9 +1355,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-14/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-14/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-14/photo-1.jpg"
+      "assets/leisure/EZ-B-14/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1367,9 +1367,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-16/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-16/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-16/photo-1.jpg"
+      "assets/leisure/EZ-B-16/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1379,9 +1379,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-17/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-17/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-17/photo-1.jpg"
+      "assets/leisure/EZ-B-17/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1391,9 +1391,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-19W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-19W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-19W/photo-1.jpg"
+      "assets/leisure/EZ-B-19W/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1403,10 +1403,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-20/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-20/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-20/photo-1.jpg",
-      "assets/leisure/EZ-B-20/photo-2.jpg"
+      "assets/leisure/EZ-B-20/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-20/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1416,10 +1416,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-26/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-26/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-26/photo-1.jpg",
-      "assets/leisure/EZ-B-26/photo-2.jpg"
+      "assets/leisure/EZ-B-26/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-26/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1429,9 +1429,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-27/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-27/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-27/photo-1.jpg"
+      "assets/leisure/EZ-B-27/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1441,12 +1441,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-32/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-32/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-32/photo-1.jpg",
-      "assets/leisure/EZ-B-32/photo-2.jpg",
-      "assets/leisure/EZ-B-32/photo-3.jpg",
-      "assets/leisure/EZ-B-32/photo-4.jpg"
+      "assets/leisure/EZ-B-32/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-32/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-32/photo-3.jpg?v=2",
+      "assets/leisure/EZ-B-32/photo-4.jpg?v=2"
     ]
   },
   {
@@ -1456,9 +1456,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-33/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-33/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-33/photo-1.jpg"
+      "assets/leisure/EZ-B-33/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1468,9 +1468,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-33KW/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-33KW/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-33KW/photo-1.jpg"
+      "assets/leisure/EZ-B-33KW/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1480,9 +1480,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-33W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-33W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-33W/photo-1.jpg"
+      "assets/leisure/EZ-B-33W/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1492,10 +1492,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-33Y/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-33Y/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-33Y/photo-1.jpg",
-      "assets/leisure/EZ-B-33Y/photo-2.jpg"
+      "assets/leisure/EZ-B-33Y/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-33Y/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1505,11 +1505,11 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-35/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-35/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-35/photo-1.jpg",
-      "assets/leisure/EZ-B-35/photo-2.jpg",
-      "assets/leisure/EZ-B-35/photo-3.jpg"
+      "assets/leisure/EZ-B-35/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-35/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-35/photo-3.jpg?v=2"
     ]
   },
   {
@@ -1519,9 +1519,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-44/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-44/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-44/photo-1.jpg"
+      "assets/leisure/EZ-B-44/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1531,9 +1531,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-44Y/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-44Y/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-44Y/photo-1.jpg"
+      "assets/leisure/EZ-B-44Y/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1543,9 +1543,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-46/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-46/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-46/photo-1.jpg"
+      "assets/leisure/EZ-B-46/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1555,9 +1555,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-46Y/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-46Y/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-46Y/photo-1.jpg"
+      "assets/leisure/EZ-B-46Y/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1567,9 +1567,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-47/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-47/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-47/photo-1.jpg"
+      "assets/leisure/EZ-B-47/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1579,9 +1579,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-49/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-49/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-49/photo-1.jpg"
+      "assets/leisure/EZ-B-49/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1591,10 +1591,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-55/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-55/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-55/photo-1.jpg",
-      "assets/leisure/EZ-B-55/photo-2.jpg"
+      "assets/leisure/EZ-B-55/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-55/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1604,10 +1604,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-56/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-56/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-56/photo-1.jpg",
-      "assets/leisure/EZ-B-56/photo-2.jpg"
+      "assets/leisure/EZ-B-56/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-56/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1617,9 +1617,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6001/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6001/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6001/photo-1.jpg"
+      "assets/leisure/EZ-B-6001/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1629,9 +1629,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6002/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6002/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6002/photo-1.jpg"
+      "assets/leisure/EZ-B-6002/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1641,9 +1641,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6003/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6003/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6003/photo-1.jpg"
+      "assets/leisure/EZ-B-6003/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1653,9 +1653,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6005/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6005/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6005/photo-1.jpg"
+      "assets/leisure/EZ-B-6005/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1665,10 +1665,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6006/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6006/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6006/photo-1.jpg",
-      "assets/leisure/EZ-B-6006/photo-2.jpg"
+      "assets/leisure/EZ-B-6006/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-6006/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1678,9 +1678,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6008/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6008/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6008/photo-1.jpg"
+      "assets/leisure/EZ-B-6008/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1690,15 +1690,15 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-6009/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-6009/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-6009/photo-1.jpg",
-      "assets/leisure/EZ-B-6009/photo-2.jpg",
-      "assets/leisure/EZ-B-6009/photo-3.jpg",
-      "assets/leisure/EZ-B-6009/photo-4.jpg",
-      "assets/leisure/EZ-B-6009/photo-5.jpg",
-      "assets/leisure/EZ-B-6009/photo-6.jpg",
-      "assets/leisure/EZ-B-6009/photo-7.jpg"
+      "assets/leisure/EZ-B-6009/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-6009/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-6009/photo-3.jpg?v=2",
+      "assets/leisure/EZ-B-6009/photo-4.jpg?v=2",
+      "assets/leisure/EZ-B-6009/photo-5.jpg?v=2",
+      "assets/leisure/EZ-B-6009/photo-6.jpg?v=2",
+      "assets/leisure/EZ-B-6009/photo-7.jpg?v=2"
     ]
   },
   {
@@ -1708,10 +1708,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-61/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-61/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-61/photo-1.jpg",
-      "assets/leisure/EZ-B-61/photo-2.jpg"
+      "assets/leisure/EZ-B-61/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-61/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1721,9 +1721,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-611/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-611/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-611/photo-1.jpg"
+      "assets/leisure/EZ-B-611/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1733,9 +1733,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-612/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-612/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-612/photo-1.jpg"
+      "assets/leisure/EZ-B-612/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1745,11 +1745,11 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-72/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-72/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-72/photo-1.jpg",
-      "assets/leisure/EZ-B-72/photo-2.jpg",
-      "assets/leisure/EZ-B-72/photo-3.jpg"
+      "assets/leisure/EZ-B-72/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-72/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-72/photo-3.jpg?v=2"
     ]
   },
   {
@@ -1759,10 +1759,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-78/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-78/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-78/photo-1.jpg",
-      "assets/leisure/EZ-B-78/photo-2.jpg"
+      "assets/leisure/EZ-B-78/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-78/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1772,10 +1772,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-78C/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-78C/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-78C/photo-1.jpg",
-      "assets/leisure/EZ-B-78C/photo-2.jpg"
+      "assets/leisure/EZ-B-78C/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-78C/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1785,9 +1785,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-79/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-79/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-79/photo-1.jpg"
+      "assets/leisure/EZ-B-79/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1797,13 +1797,13 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-80/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-80/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-80/photo-1.jpg",
-      "assets/leisure/EZ-B-80/photo-2.jpg",
-      "assets/leisure/EZ-B-80/photo-3.jpg",
-      "assets/leisure/EZ-B-80/photo-4.jpg",
-      "assets/leisure/EZ-B-80/photo-5.jpg"
+      "assets/leisure/EZ-B-80/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-80/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-80/photo-3.jpg?v=2",
+      "assets/leisure/EZ-B-80/photo-4.jpg?v=2",
+      "assets/leisure/EZ-B-80/photo-5.jpg?v=2"
     ]
   },
   {
@@ -1813,10 +1813,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-8001C/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-8001C/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-8001C/photo-1.jpg",
-      "assets/leisure/EZ-B-8001C/photo-2.jpg"
+      "assets/leisure/EZ-B-8001C/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-8001C/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1826,10 +1826,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-8002C/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-8002C/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-8002C/photo-1.jpg",
-      "assets/leisure/EZ-B-8002C/photo-2.jpg"
+      "assets/leisure/EZ-B-8002C/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-8002C/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1839,10 +1839,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-8003C/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-8003C/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-8003C/photo-1.jpg",
-      "assets/leisure/EZ-B-8003C/photo-2.jpg"
+      "assets/leisure/EZ-B-8003C/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-8003C/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1852,12 +1852,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-80P/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-80P/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-80P/photo-1.jpg",
-      "assets/leisure/EZ-B-80P/photo-2.jpg",
-      "assets/leisure/EZ-B-80P/photo-3.jpg",
-      "assets/leisure/EZ-B-80P/photo-4.jpg"
+      "assets/leisure/EZ-B-80P/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-80P/photo-2.jpg?v=2",
+      "assets/leisure/EZ-B-80P/photo-3.jpg?v=2",
+      "assets/leisure/EZ-B-80P/photo-4.jpg?v=2"
     ]
   },
   {
@@ -1867,9 +1867,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-811/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-811/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-811/photo-1.jpg"
+      "assets/leisure/EZ-B-811/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1879,9 +1879,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-812/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-812/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-812/photo-1.jpg"
+      "assets/leisure/EZ-B-812/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1891,9 +1891,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-813/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-813/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-813/photo-1.jpg"
+      "assets/leisure/EZ-B-813/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1903,9 +1903,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-817/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-817/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-817/photo-1.jpg"
+      "assets/leisure/EZ-B-817/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1915,9 +1915,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-819/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-819/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-819/photo-1.jpg"
+      "assets/leisure/EZ-B-819/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1927,10 +1927,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-82/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-82/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-82/photo-1.jpg",
-      "assets/leisure/EZ-B-82/photo-2.jpg"
+      "assets/leisure/EZ-B-82/photo-1.jpg?v=2",
+      "assets/leisure/EZ-B-82/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1940,9 +1940,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-B-912/photo-1.jpg",
+    "cover": "assets/leisure/EZ-B-912/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-B-912/photo-1.jpg"
+      "assets/leisure/EZ-B-912/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1952,10 +1952,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-01/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-01/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-01/photo-1.jpg",
-      "assets/leisure/EZ-C-01/photo-2.jpg"
+      "assets/leisure/EZ-C-01/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-01/photo-2.jpg?v=2"
     ]
   },
   {
@@ -1965,9 +1965,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-02/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-02/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-02/photo-1.jpg"
+      "assets/leisure/EZ-C-02/photo-1.jpg?v=2"
     ]
   },
   {
@@ -1977,13 +1977,13 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-03/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-03/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-03/photo-1.jpg",
-      "assets/leisure/EZ-C-03/photo-2.jpg",
-      "assets/leisure/EZ-C-03/photo-3.jpg",
-      "assets/leisure/EZ-C-03/photo-4.jpg",
-      "assets/leisure/EZ-C-03/photo-5.jpg"
+      "assets/leisure/EZ-C-03/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-03/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-03/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-03/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-03/photo-5.jpg?v=2"
     ]
   },
   {
@@ -1993,9 +1993,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-04/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-04/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-04/photo-1.jpg"
+      "assets/leisure/EZ-C-04/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2005,15 +2005,15 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-05/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-05/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-05/photo-1.jpg",
-      "assets/leisure/EZ-C-05/photo-2.jpg",
-      "assets/leisure/EZ-C-05/photo-3.jpg",
-      "assets/leisure/EZ-C-05/photo-4.jpg",
-      "assets/leisure/EZ-C-05/photo-5.jpg",
-      "assets/leisure/EZ-C-05/photo-6.jpg",
-      "assets/leisure/EZ-C-05/photo-7.jpg"
+      "assets/leisure/EZ-C-05/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-05/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-05/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-05/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-05/photo-5.jpg?v=2",
+      "assets/leisure/EZ-C-05/photo-6.jpg?v=2",
+      "assets/leisure/EZ-C-05/photo-7.jpg?v=2"
     ]
   },
   {
@@ -2023,9 +2023,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-1/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-1/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-1/photo-1.jpg"
+      "assets/leisure/EZ-C-1/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2035,9 +2035,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-10/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-10/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-10/photo-1.jpg"
+      "assets/leisure/EZ-C-10/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2047,11 +2047,11 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-106/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-106/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-106/photo-1.jpg",
-      "assets/leisure/EZ-C-106/photo-2.jpg",
-      "assets/leisure/EZ-C-106/photo-3.jpg"
+      "assets/leisure/EZ-C-106/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-106/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-106/photo-3.jpg?v=2"
     ]
   },
   {
@@ -2061,13 +2061,13 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-107/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-107/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-107/photo-1.jpg",
-      "assets/leisure/EZ-C-107/photo-2.jpg",
-      "assets/leisure/EZ-C-107/photo-3.jpg",
-      "assets/leisure/EZ-C-107/photo-4.jpg",
-      "assets/leisure/EZ-C-107/photo-5.jpg"
+      "assets/leisure/EZ-C-107/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-107/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-107/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-107/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-107/photo-5.jpg?v=2"
     ]
   },
   {
@@ -2077,11 +2077,11 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-108/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-108/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-108/photo-1.jpg",
-      "assets/leisure/EZ-C-108/photo-2.jpg",
-      "assets/leisure/EZ-C-108/photo-3.jpg"
+      "assets/leisure/EZ-C-108/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-108/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-108/photo-3.jpg?v=2"
     ]
   },
   {
@@ -2091,12 +2091,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-108P/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-108P/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-108P/photo-1.jpg",
-      "assets/leisure/EZ-C-108P/photo-2.jpg",
-      "assets/leisure/EZ-C-108P/photo-3.jpg",
-      "assets/leisure/EZ-C-108P/photo-4.jpg"
+      "assets/leisure/EZ-C-108P/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-108P/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-108P/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-108P/photo-4.jpg?v=2"
     ]
   },
   {
@@ -2106,16 +2106,16 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-109/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-109/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-109/photo-1.jpg",
-      "assets/leisure/EZ-C-109/photo-2.jpg",
-      "assets/leisure/EZ-C-109/photo-3.jpg",
-      "assets/leisure/EZ-C-109/photo-4.jpg",
-      "assets/leisure/EZ-C-109/photo-5.jpg",
-      "assets/leisure/EZ-C-109/photo-6.jpg",
-      "assets/leisure/EZ-C-109/photo-7.jpg",
-      "assets/leisure/EZ-C-109/photo-8.jpg"
+      "assets/leisure/EZ-C-109/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-5.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-6.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-7.jpg?v=2",
+      "assets/leisure/EZ-C-109/photo-8.jpg?v=2"
     ]
   },
   {
@@ -2125,9 +2125,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-10F/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-10F/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-10F/photo-1.jpg"
+      "assets/leisure/EZ-C-10F/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2137,14 +2137,14 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-110/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-110/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-110/photo-1.jpg",
-      "assets/leisure/EZ-C-110/photo-2.jpg",
-      "assets/leisure/EZ-C-110/photo-3.jpg",
-      "assets/leisure/EZ-C-110/photo-4.jpg",
-      "assets/leisure/EZ-C-110/photo-5.jpg",
-      "assets/leisure/EZ-C-110/photo-6.jpg"
+      "assets/leisure/EZ-C-110/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-110/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-110/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-110/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-110/photo-5.jpg?v=2",
+      "assets/leisure/EZ-C-110/photo-6.jpg?v=2"
     ]
   },
   {
@@ -2154,10 +2154,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-113/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-113/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-113/photo-1.jpg",
-      "assets/leisure/EZ-C-113/photo-2.jpg"
+      "assets/leisure/EZ-C-113/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-113/photo-2.jpg?v=2"
     ]
   },
   {
@@ -2167,12 +2167,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-114/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-114/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-114/photo-1.jpg",
-      "assets/leisure/EZ-C-114/photo-2.jpg",
-      "assets/leisure/EZ-C-114/photo-3.jpg",
-      "assets/leisure/EZ-C-114/photo-4.jpg"
+      "assets/leisure/EZ-C-114/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-114/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-114/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-114/photo-4.jpg?v=2"
     ]
   },
   {
@@ -2182,13 +2182,13 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-114W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-114W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-114W/photo-1.jpg",
-      "assets/leisure/EZ-C-114W/photo-2.jpg",
-      "assets/leisure/EZ-C-114W/photo-3.jpg",
-      "assets/leisure/EZ-C-114W/photo-4.jpg",
-      "assets/leisure/EZ-C-114W/photo-5.jpg"
+      "assets/leisure/EZ-C-114W/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-114W/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-114W/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-114W/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-114W/photo-5.jpg?v=2"
     ]
   },
   {
@@ -2198,16 +2198,16 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-115/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-115/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-115/photo-1.jpg",
-      "assets/leisure/EZ-C-115/photo-2.jpg",
-      "assets/leisure/EZ-C-115/photo-3.jpg",
-      "assets/leisure/EZ-C-115/photo-4.jpg",
-      "assets/leisure/EZ-C-115/photo-5.jpg",
-      "assets/leisure/EZ-C-115/photo-6.jpg",
-      "assets/leisure/EZ-C-115/photo-7.jpg",
-      "assets/leisure/EZ-C-115/photo-8.jpg"
+      "assets/leisure/EZ-C-115/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-4.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-5.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-6.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-7.jpg?v=2",
+      "assets/leisure/EZ-C-115/photo-8.jpg?v=2"
     ]
   },
   {
@@ -2217,11 +2217,11 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-116/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-116/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-116/photo-1.jpg",
-      "assets/leisure/EZ-C-116/photo-2.jpg",
-      "assets/leisure/EZ-C-116/photo-3.jpg"
+      "assets/leisure/EZ-C-116/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-116/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-116/photo-3.jpg?v=2"
     ]
   },
   {
@@ -2231,10 +2231,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-116W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-116W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-116W/photo-1.jpg",
-      "assets/leisure/EZ-C-116W/photo-2.jpg"
+      "assets/leisure/EZ-C-116W/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-116W/photo-2.jpg?v=2"
     ]
   },
   {
@@ -2244,12 +2244,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-117/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-117/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-117/photo-1.jpg",
-      "assets/leisure/EZ-C-117/photo-2.jpg",
-      "assets/leisure/EZ-C-117/photo-3.jpg",
-      "assets/leisure/EZ-C-117/photo-4.jpg"
+      "assets/leisure/EZ-C-117/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-117/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-117/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-117/photo-4.jpg?v=2"
     ]
   },
   {
@@ -2259,12 +2259,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-117P/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-117P/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-117P/photo-1.jpg",
-      "assets/leisure/EZ-C-117P/photo-2.jpg",
-      "assets/leisure/EZ-C-117P/photo-3.jpg",
-      "assets/leisure/EZ-C-117P/photo-4.jpg"
+      "assets/leisure/EZ-C-117P/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-117P/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-117P/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-117P/photo-4.jpg?v=2"
     ]
   },
   {
@@ -2274,12 +2274,12 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-118/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-118/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-118/photo-1.jpg",
-      "assets/leisure/EZ-C-118/photo-2.jpg",
-      "assets/leisure/EZ-C-118/photo-3.jpg",
-      "assets/leisure/EZ-C-118/photo-4.jpg"
+      "assets/leisure/EZ-C-118/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-118/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-118/photo-3.jpg?v=2",
+      "assets/leisure/EZ-C-118/photo-4.jpg?v=2"
     ]
   },
   {
@@ -2289,9 +2289,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-145/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-145/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-145/photo-1.jpg"
+      "assets/leisure/EZ-C-145/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2301,9 +2301,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-146/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-146/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-146/photo-1.jpg"
+      "assets/leisure/EZ-C-146/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2313,9 +2313,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-146X/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-146X/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-146X/photo-1.jpg"
+      "assets/leisure/EZ-C-146X/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2325,9 +2325,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-147/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-147/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-147/photo-1.jpg"
+      "assets/leisure/EZ-C-147/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2337,11 +2337,11 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-3017/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-3017/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-3017/photo-1.jpg",
-      "assets/leisure/EZ-C-3017/photo-2.jpg",
-      "assets/leisure/EZ-C-3017/photo-3.jpg"
+      "assets/leisure/EZ-C-3017/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-3017/photo-2.jpg?v=2",
+      "assets/leisure/EZ-C-3017/photo-3.jpg?v=2"
     ]
   },
   {
@@ -2351,9 +2351,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-605/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-605/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-605/photo-1.jpg"
+      "assets/leisure/EZ-C-605/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2363,9 +2363,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-607/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-607/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-607/photo-1.jpg"
+      "assets/leisure/EZ-C-607/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2375,9 +2375,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-607C/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-607C/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-607C/photo-1.jpg"
+      "assets/leisure/EZ-C-607C/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2387,9 +2387,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-608/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-608/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-608/photo-1.jpg"
+      "assets/leisure/EZ-C-608/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2399,9 +2399,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-608N/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-608N/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-608N/photo-1.jpg"
+      "assets/leisure/EZ-C-608N/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2411,10 +2411,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-609/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-609/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-609/photo-1.jpg",
-      "assets/leisure/EZ-C-609/photo-2.jpg"
+      "assets/leisure/EZ-C-609/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-609/photo-2.jpg?v=2"
     ]
   },
   {
@@ -2424,9 +2424,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-610/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-610/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-610/photo-1.jpg"
+      "assets/leisure/EZ-C-610/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2436,9 +2436,9 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-613/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-613/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-613/photo-1.jpg"
+      "assets/leisure/EZ-C-613/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2448,10 +2448,10 @@ window.PRODUCTS = {
     "desc": "Steel-frame visitor / training chair for offices, schools and meeting rooms.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-C-613W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-C-613W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-C-613W/photo-1.jpg",
-      "assets/leisure/EZ-C-613W/photo-2.jpg"
+      "assets/leisure/EZ-C-613W/photo-1.jpg?v=2",
+      "assets/leisure/EZ-C-613W/photo-2.jpg?v=2"
     ]
   },
   {
@@ -2461,9 +2461,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-01/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-01/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-01/photo-1.jpg"
+      "assets/leisure/EZ-T-01/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2473,9 +2473,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-03/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-03/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-03/photo-1.jpg"
+      "assets/leisure/EZ-T-03/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2485,9 +2485,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-05/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-05/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-05/photo-1.jpg"
+      "assets/leisure/EZ-T-05/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2497,9 +2497,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-07/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-07/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-07/photo-1.jpg"
+      "assets/leisure/EZ-T-07/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2509,9 +2509,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-102/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-102/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-102/photo-1.jpg"
+      "assets/leisure/EZ-T-102/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2521,9 +2521,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-103/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-103/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-103/photo-1.jpg"
+      "assets/leisure/EZ-T-103/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2533,9 +2533,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-106/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-106/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-106/photo-1.jpg"
+      "assets/leisure/EZ-T-106/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2545,9 +2545,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-107/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-107/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-107/photo-1.jpg"
+      "assets/leisure/EZ-T-107/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2557,9 +2557,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-108/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-108/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-108/photo-1.jpg"
+      "assets/leisure/EZ-T-108/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2569,11 +2569,11 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-11/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-11/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-11/photo-1.jpg",
-      "assets/leisure/EZ-T-11/photo-2.jpg",
-      "assets/leisure/EZ-T-11/photo-3.jpg"
+      "assets/leisure/EZ-T-11/photo-1.jpg?v=2",
+      "assets/leisure/EZ-T-11/photo-2.jpg?v=2",
+      "assets/leisure/EZ-T-11/photo-3.jpg?v=2"
     ]
   },
   {
@@ -2583,9 +2583,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-16/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-16/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-16/photo-1.jpg"
+      "assets/leisure/EZ-T-16/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2595,9 +2595,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-19W/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-19W/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-19W/photo-1.jpg"
+      "assets/leisure/EZ-T-19W/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2607,9 +2607,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-32/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-32/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-32/photo-1.jpg"
+      "assets/leisure/EZ-T-32/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2619,9 +2619,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-6001/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-6001/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-6001/photo-1.jpg"
+      "assets/leisure/EZ-T-6001/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2631,9 +2631,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-6002/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-6002/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-6002/photo-1.jpg"
+      "assets/leisure/EZ-T-6002/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2643,9 +2643,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-6003/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-6003/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-6003/photo-1.jpg"
+      "assets/leisure/EZ-T-6003/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2655,9 +2655,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-612/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-612/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-612/photo-1.jpg"
+      "assets/leisure/EZ-T-612/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2667,11 +2667,11 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-62/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-62/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-62/photo-1.jpg",
-      "assets/leisure/EZ-T-62/photo-2.jpg",
-      "assets/leisure/EZ-T-62/photo-3.jpg"
+      "assets/leisure/EZ-T-62/photo-1.jpg?v=2",
+      "assets/leisure/EZ-T-62/photo-2.jpg?v=2",
+      "assets/leisure/EZ-T-62/photo-3.jpg?v=2"
     ]
   },
   {
@@ -2681,9 +2681,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-72/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-72/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-72/photo-1.jpg"
+      "assets/leisure/EZ-T-72/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2693,9 +2693,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-811/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-811/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-811/photo-1.jpg"
+      "assets/leisure/EZ-T-811/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2705,9 +2705,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-812/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-812/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-812/photo-1.jpg"
+      "assets/leisure/EZ-T-812/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2717,9 +2717,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-813/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-813/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-813/photo-1.jpg"
+      "assets/leisure/EZ-T-813/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2729,9 +2729,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-817/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-817/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-817/photo-1.jpg"
+      "assets/leisure/EZ-T-817/photo-1.jpg?v=2"
     ]
   },
   {
@@ -2741,9 +2741,9 @@ window.PRODUCTS = {
     "desc": "Swivel task chair with casters for office workstations.",
     "moq": null,
     "fob": null,
-    "cover": "assets/leisure/EZ-T-819/photo-1.jpg",
+    "cover": "assets/leisure/EZ-T-819/photo-1.jpg?v=2",
     "gallery": [
-      "assets/leisure/EZ-T-819/photo-1.jpg"
+      "assets/leisure/EZ-T-819/photo-1.jpg?v=2"
     ]
   }
 ]
