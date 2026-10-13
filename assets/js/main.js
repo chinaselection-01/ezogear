@@ -177,8 +177,13 @@
 
   /* ---------- Boot ---------- */
   document.addEventListener("DOMContentLoaded", () => {
-    initTables();
-    initChairs();
+    /* tables.html 与 chairs.html 共用 id="grid"，必须按页面特征二选一，
+       否则后执行的 initChairs 会把 tables 页的桌子覆盖成椅子 */
+    if (document.querySelector(".chip")) {
+      initTables();          // tables.html（带筛选 chips）
+    } else if (document.getElementById("grid")) {
+      initChairs();          // chairs.html
+    }
     initContact();
   });
 })();
