@@ -205,7 +205,7 @@
     const sku = params.get("sku");
     if (sku) ta.value = "Interested in model: " + sku + "\n";
 
-    const SALES_EMAIL = "bob@ezogear.com"; // TODO: replace with your real sales mailbox
+    const SALES_EMAIL = "jojo@EZOGEAR.com"; // TODO: replace with your real sales mailbox
     form.addEventListener("submit", (e) => {
       e.preventDefault();
       const name = form.name.value.trim();

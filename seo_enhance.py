@@ -58,8 +58,8 @@ def org_jsonld(fn):
                 "description": ("China cheapest factory for gaming desks and chairs. "
                                 "We supply direct factory price wholesale gaming furniture with OEM/ODM, "
                                 "low MOQ and FOB Ningbo shipping from Yiwu, Zhejiang."),
-                "email": "bob@ezogear.com",
-                "telephone": "+86 18868526288",
+                "email": "jojo@EZOGEAR.com",
+                "telephone": "+86 15088255784",
                 "address": {
                     "@type": "PostalAddress",
                     "addressLocality": "Yiwu",
