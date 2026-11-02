@@ -16,7 +16,13 @@ llms = f"""# EZO Gear
 - Home: {BASE}
 - Gaming Tables catalog: {BASE}tables.html
 - Gaming Chairs catalog: {BASE}chairs.html
+- Leisure & Office Chairs catalog: {BASE}leisure.html
 - Request a Quote: {BASE}contact.html
+
+## Insights / Articles (B2B sourcing reports)
+- Blog & Sourcing Reports index: {BASE}blog.html
+- Sourcing Gaming Desks from China — 2026 Cost, MOQ & Quality Report: {BASE}gaming-desk-sourcing-report.html
+- Gaming Chair vs Office Chair — Spec Comparison + Bulk Sourcing Guide: {BASE}gaming-chair-vs-office-chair.html
 
 ## Company
 - Legal entity: Yiwu shanqing E‑commerce Firm
@@ -37,6 +43,10 @@ urls = [
     ("", "weekly", "1.0"),
     ("tables.html", "weekly", "0.9"),
     ("chairs.html", "weekly", "0.9"),
+    ("leisure.html", "weekly", "0.9"),
+    ("blog.html", "monthly", "0.7"),
+    ("gaming-desk-sourcing-report.html", "monthly", "0.8"),
+    ("gaming-chair-vs-office-chair.html", "monthly", "0.8"),
     ("contact.html", "monthly", "0.6"),
 ]
 sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
